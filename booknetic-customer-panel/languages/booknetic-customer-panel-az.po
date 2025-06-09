@@ -1,0 +1,844 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: test\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-05 17:57+0400\n"
+"PO-Revision-Date: 2025-03-05 17:57+0400\n"
+"Last-Translator: Mark Velmiskin\n"
+"Language-Team: Azerbaijani\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../app\n"
+"X-Poedit-KeywordsList: bkntc__\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: Frontend/assets/js/datepicker.min.js\n"
+"X-Poedit-SearchPathExcluded-1: Frontend/assets/js/intlTelInput.min.js\n"
+"X-Poedit-SearchPathExcluded-2: Frontend/assets/js/jquery.nicescroll.min.js\n"
+"X-Poedit-SearchPathExcluded-3: Frontend/assets/js/utilsIntlTelInput.js\n"
+
+#: Backend/view/modal/customer_panel_settings.php:15
+#: Backend/view/modal/customer_panel_settings_saas.php:15
+msgid "SAVE CHANGES"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:20
+msgid "Front-end panels"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:21
+#: Backend/view/modal/customer_panel_settings_saas.php:20
+#: CustomerPanelAddon.php:68 CustomerPanelAddon.php:84
+msgid "Customer Panel"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:31
+#: Backend/view/modal/customer_panel_settings_saas.php:30
+msgid "Disabled"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:35
+#: Backend/view/modal/customer_panel_settings_saas.php:34
+msgid "Enabled"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:46
+#: Backend/view/modal/customer_panel_settings_saas.php:43
+msgid "Page of Customer Panel"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:56
+msgid "Time restriction to change appointments"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:96
+msgid "Allow customers to change appointment status"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:104
+msgid "Customers can change appointment status to"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:121
+msgid "Allow customers to reschedule their appointments"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:130
+msgid "Customers can reschedule with these appointment statuses"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:143
+#: Backend/view/modal/customer_panel_settings_saas.php:54
+msgid "Allow customers to delete their account"
+msgstr ""
+
+#: Backend/view/modal/customer_panel_settings.php:154
+msgid "Hide the \"Pay now\" button on the Customer Panel"
+msgstr ""
+
+#: CustomerPanelAddon.php:42
+msgid "Customer Panel settings"
+msgstr ""
+
+#: CustomerPanelAddon.php:45
+msgid "Customer Panel URL"
+msgstr ""
+
+#: CustomerPanelAddon.php:49
+msgid "Customer Panel Restriction Time"
+msgstr ""
+
+#: CustomerPanelAddon.php:85
+msgid "You can customize customer panel settings from here"
+msgstr ""
+
+#: CustomerPanelAddon.php:129
+msgid "Redirecting..."
+msgstr ""
+
+#: CustomerPanelAddon.php:144
+msgid "January"
+msgstr "Yanvar"
+
+#: CustomerPanelAddon.php:145
+msgid "February"
+msgstr "Fevral"
+
+#: CustomerPanelAddon.php:146
+msgid "March"
+msgstr "Mart"
+
+#: CustomerPanelAddon.php:147
+msgid "April"
+msgstr "Aprel"
+
+#: CustomerPanelAddon.php:148
+msgid "May"
+msgstr "May"
+
+#: CustomerPanelAddon.php:149
+msgid "June"
+msgstr "İyun"
+
+#: CustomerPanelAddon.php:150
+msgid "July"
+msgstr "İyul"
+
+#: CustomerPanelAddon.php:151
+msgid "August"
+msgstr "Avqust"
+
+#: CustomerPanelAddon.php:152
+msgid "September"
+msgstr "Sentyabr"
+
+#: CustomerPanelAddon.php:153
+msgid "October"
+msgstr "Oktyabr"
+
+#: CustomerPanelAddon.php:154
+msgid "November"
+msgstr "Noyabr"
+
+#: CustomerPanelAddon.php:155
+msgid "December"
+msgstr "Dekabr"
+
+#: CustomerPanelAddon.php:158
+msgid "Mon"
+msgstr "B.e"
+
+#: CustomerPanelAddon.php:159
+msgid "Tue"
+msgstr "Ç.a"
+
+#: CustomerPanelAddon.php:160
+msgid "Wed"
+msgstr "Ç."
+
+#: CustomerPanelAddon.php:161
+msgid "Thu"
+msgstr "C.a"
+
+#: CustomerPanelAddon.php:162
+msgid "Fri"
+msgstr "C."
+
+#: CustomerPanelAddon.php:163
+msgid "Sat"
+msgstr "Ş."
+
+#: CustomerPanelAddon.php:164
+msgid "Sun"
+msgstr "B."
+
+#: CustomerPanelAddon.php:167
+msgid "Select..."
+msgstr "Seçin..."
+
+#: CustomerPanelAddon.php:168
+msgid "Searching..."
+msgstr ""
+
+#: Frontend/Ajax.php:43
+#, fuzzy
+#| msgid "Please fill in all required fields correctly!"
+msgid "Please fill all required fields!"
+msgstr "Lütfən bütün xanaları düzgün doldurun!"
+
+#: Frontend/Ajax.php:53
+msgid "Please enter a valid email address!"
+msgstr "Lütfən düzgün e-poçt adresi daxil edin!"
+
+#: Frontend/Ajax.php:60
+msgid "This email address is already used by another customer."
+msgstr ""
+
+#: Frontend/Ajax.php:84
+msgid "Profile data was saved successfully"
+msgstr ""
+
+#: Frontend/Ajax.php:100
+msgid "Password does not match!"
+msgstr ""
+
+#: Frontend/Ajax.php:108
+msgid "Current password is wrong!"
+msgstr ""
+
+#: Frontend/Ajax.php:115
+msgid "Password was changed successfully"
+msgstr ""
+
+#: Frontend/Ajax.php:155
+msgid "Time format is wrong."
+msgstr ""
+
+#: Frontend/Ajax.php:160
+msgid "You can not change the date and time to past."
+msgstr ""
+
+#: Frontend/Ajax.php:183
+#, php-format
+msgid "Minimum time requirement prior to change the appointment date and time is %s"
+msgstr ""
+
+#: Frontend/Ajax.php:190
+#, php-format
+msgid "You cannot change the appointment less than %s in advance"
+msgstr ""
+
+#: Frontend/Ajax.php:195
+msgid "You have not changed the date and time."
+msgstr ""
+
+#: Frontend/Ajax.php:203
+msgid "Appointment was rescheduled successfully!"
+msgstr ""
+
+#: Frontend/Ajax.php:328
+msgid "Time limit to change appointment status expired"
+msgstr ""
+
+#: Frontend/Ajax.php:337
+msgid "Invalid appointment status"
+msgstr ""
+
+#: Frontend/Ajax.php:341
+msgid "Change current status before save"
+msgstr ""
+
+#: Frontend/Ajax.php:347
+#, php-format
+msgid "Appointment status changed to %s"
+msgstr ""
+
+#: Frontend/Ajax.php:391
+msgid "Invalid payment method"
+msgstr ""
+
+#: Frontend/view/appointments_list.php:47
+msgid "Reschedule"
+msgstr ""
+
+#: Frontend/view/appointments_list.php:50
+msgid "Change Status"
+msgstr ""
+
+#: Frontend/view/appointments_list.php:53
+msgid "Pay Now"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:35
+msgid "LOGOUT"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:47
+msgid "Appointments"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:53
+msgid "Profile"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:59
+msgid "Change password"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:69
+msgid "ID"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:71
+msgid "Company"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:73
+msgid "SERVICE"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:74
+msgid "STAFF"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:75
+msgid "APPOINTMENT DATE"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:76
+msgid "PRICE"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:77
+msgid "DURATION"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:78
+msgid "STATUS"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:92
+msgid "Name"
+msgstr "Ad"
+
+#: Frontend/view/customer_panel.php:98
+msgid "Surname"
+msgstr "Soyad"
+
+#: Frontend/view/customer_panel.php:104
+msgid "Email"
+msgstr "E-poçt"
+
+#: Frontend/view/customer_panel.php:110
+msgid "Phone"
+msgstr "Telefon"
+
+#: Frontend/view/customer_panel.php:116
+msgid "Date of birth"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:121
+msgid "Gender"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:123
+msgid "Male"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:124
+msgid "Female"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:132 Frontend/view/customer_panel.php:248
+msgid "SAVE"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:136
+msgid "DELETE MY PROFILE"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:147
+msgid "Current password"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:153
+msgid "New password"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:160
+msgid "Repeat new password"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:170
+msgid "CHANGE PASSWORD"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:185
+msgid "Are you sure you want to delete your profile?"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:188 Frontend/view/customer_panel.php:203
+msgid "NO"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:189 Frontend/view/customer_panel.php:204
+msgid "YES"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:200
+msgid "Are you sure you want to change appointment status to?"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:217
+msgid "Date"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:221
+msgid "Time"
+msgstr "Saat"
+
+#: Frontend/view/customer_panel.php:227 Frontend/view/customer_panel.php:247
+#: Frontend/view/customer_panel.php:265
+msgid "CANCEL"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:228
+msgid "RESCHEDULE"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:241
+#, fuzzy
+msgid "Select Status"
+msgstr "Select staff"
+
+#: Frontend/view/customer_panel.php:259
+msgid "Select Payment Gateway"
+msgstr ""
+
+#: Frontend/view/customer_panel.php:266
+msgid "Pay"
+msgstr ""
+
+#: Integrations/Divi/includes/modules/CustomerPanel/CustomerPanel.php:16
+msgid "Booknetic Customer Panel"
+msgstr ""
+
+#: Listener.php:31
+msgid "Customer panel URL"
+msgstr ""
+
+#~ msgid "Location"
+#~ msgstr "Məkan"
+
+#~ msgid "Staff"
+#~ msgstr "Kadr"
+
+#~ msgid "Service"
+#~ msgstr "Xidmət"
+
+#~ msgid "Service Extras"
+#~ msgstr "Əlavə xidmət"
+
+#~ msgid "Date & Time"
+#~ msgstr "Tarix"
+
+#~ msgid "Information"
+#~ msgstr "Məlumat"
+
+#~ msgid "Confirmation"
+#~ msgstr "Təsdiqləmə"
+
+#~ msgid "Have any questions?"
+#~ msgstr "Sualınız var?"
+
+#~ msgid "Select service"
+#~ msgstr "Xidmət seçin"
+
+#~ msgid "BACK"
+#~ msgstr "GERİ"
+
+#~ msgid "NEXT STEP"
+#~ msgstr "DAVAM"
+
+#, php-format
+#~ msgid "\"%s\" can not be empty, because it's a required field!"
+#~ msgstr "\"%s\" boş ola bilməz, bu xananın doldurulması vacibdir!"
+
+#, php-format
+#~ msgid "Minimum length of \"%s\" field is %d!"
+#~ msgstr "Minimum length of \"%s\" field is %d!"
+
+#, php-format
+#~ msgid "Maximum length of \"%s\" field is %d!"
+#~ msgstr "Maximum length of \"%s\" field is %d!"
+
+#~ msgid "File extension is not allowed!"
+#~ msgstr "Fayl formatına icazə verilmir!"
+
+#~ msgid "DATE"
+#~ msgstr "TARİX"
+
+#~ msgid "Days of week"
+#~ msgstr "Həftənin Günləri"
+
+#~ msgid "Monday"
+#~ msgstr "Bazar ertəsi"
+
+#~ msgid "Tuesday"
+#~ msgstr "Çərşənbə axşamı"
+
+#~ msgid "Wednesday"
+#~ msgstr "Çərşənbə"
+
+#~ msgid "Thursday"
+#~ msgstr "Cümə axşamı"
+
+#~ msgid "Friday"
+#~ msgstr "Cümə"
+
+#~ msgid "Saturday"
+#~ msgstr "Şənbə"
+
+#~ msgid "Sunday"
+#~ msgstr "Bazar"
+
+#~ msgid "Every"
+#~ msgstr "Hər"
+
+#~ msgid "DAYS"
+#~ msgstr "GÜNLƏR"
+
+#~ msgid "On"
+#~ msgstr "On"
+
+#~ msgid "Specific day"
+#~ msgstr "Xüsusi gün"
+
+#~ msgid "First"
+#~ msgstr "Birinci"
+
+#~ msgid "Second"
+#~ msgstr "İkinci"
+
+#~ msgid "Third"
+#~ msgstr "Üçüncü"
+
+#~ msgid "Fourth"
+#~ msgstr "Dördüncü"
+
+#~ msgid "Last"
+#~ msgstr "Sonuncu"
+
+#~ msgid "Start date"
+#~ msgstr "Başlanğıc vaxtı"
+
+#~ msgid "End date"
+#~ msgstr "Bitiş vaxtı"
+
+#~ msgid "Times"
+#~ msgstr "Dəfə"
+
+#~ msgid "TIME"
+#~ msgstr "SAAT"
+
+#, fuzzy
+#~ msgid "START MEETING"
+#~ msgstr "START NEW BOOKING"
+
+#~ msgid "EDIT"
+#~ msgstr "DƏYİŞ"
+
+#~ msgid "Discount"
+#~ msgstr "Endirim"
+
+#, fuzzy
+#~ msgid "Tax amount"
+#~ msgstr "Full amount"
+
+#, fuzzy
+#~ msgid "Share your page "
+#~ msgstr "Başlama tarixi"
+
+#, fuzzy
+#~ msgid "Share your page"
+#~ msgstr "Başlama tarixi"
+
+#, fuzzy
+#~ msgid "Starting guide"
+#~ msgstr "Start date"
+
+#, fuzzy
+#~ msgid "Create location"
+#~ msgstr "Select location"
+
+#, fuzzy
+#~ msgid "Create staff"
+#~ msgstr "Select staff"
+
+#, fuzzy
+#~ msgid "Create service"
+#~ msgstr "Select service"
+
+#, fuzzy
+#~ msgid "Select payment method"
+#~ msgstr "Select date"
+
+#~ msgid "Credit card"
+#~ msgstr "Kartla ödəniş"
+
+#, fuzzy
+#~ msgid "The QR for your page"
+#~ msgstr "Başlama tarixi"
+
+#, fuzzy
+#~ msgid "Please select WordPress user!"
+#~ msgstr "Please select service"
+
+#, fuzzy
+#~ msgid "First name"
+#~ msgstr "Birinci"
+
+#, fuzzy
+#~ msgid "Last name"
+#~ msgstr "Sonuncu"
+
+#, fuzzy
+#~ msgid "Notifications"
+#~ msgstr "Location"
+
+#, fuzzy
+#~ msgid "Please type the giftcard code field!"
+#~ msgstr "Please enter a valid phone number!"
+
+#, fuzzy
+#~ msgid "Giftcards"
+#~ msgstr "Credit card"
+
+#, fuzzy
+#~ msgid "Add Giftcard"
+#~ msgstr "Credit card"
+
+#, fuzzy
+#~ msgid "PDF Name"
+#~ msgstr "Ad"
+
+#, fuzzy
+#~ msgid "Select Type"
+#~ msgstr "Select date"
+
+#, fuzzy
+#~ msgid "Tab Name"
+#~ msgstr "Ad"
+
+#, fuzzy
+#~ msgid "Select Language"
+#~ msgstr "Select date"
+
+#, fuzzy
+#~ msgid "Select Service"
+#~ msgstr "Select service"
+
+#, fuzzy
+#~ msgid "Select Location"
+#~ msgstr "Select location"
+
+#~ msgid "Daily"
+#~ msgstr "Günlük"
+
+#~ msgid "Deposit"
+#~ msgstr "Depozit"
+
+#~ msgid "Local"
+#~ msgstr "Nağd ödəniş"
+
+#~ msgid "Paypal"
+#~ msgstr "Paypal"
+
+#~ msgid "Any staff"
+#~ msgstr "İstənilən kadr"
+
+#, fuzzy
+#~ msgid "Select an available staff"
+#~ msgstr "Uyğun kadrı seçin"
+
+#~ msgid "Add coupon"
+#~ msgstr "Kupon əlavə et"
+
+#~ msgid "Please select location."
+#~ msgstr "Lütfən məkanı seçin"
+
+#~ msgid "Please select staff."
+#~ msgstr "Lütfən kadrı seçin"
+
+#~ msgid "Please select service"
+#~ msgstr "Lütfən xidməti seçin"
+
+#~ msgid "Please select week day(s)"
+#~ msgstr "Lütfən həftənin günlərini seçin"
+
+#~ msgid "Please select week day(s) and time(s) correctly"
+#~ msgstr "Lütfən həftənin günlərini və tarixi düzgün seçin"
+
+#~ msgid "Please select start date"
+#~ msgstr "Başlanğıc tarixi seçin"
+
+#~ msgid "Please select end date"
+#~ msgstr "Bitiş tarixi seçin"
+
+#~ msgid "Please select date."
+#~ msgstr "Lütfən tarix seçin"
+
+#~ msgid "Please select time."
+#~ msgstr "Lütfən saatı seçin"
+
+#~ msgid "Please select an available time"
+#~ msgstr "Lütfən mövcud tarixi seçin"
+
+#~ msgid "Please enter a valid phone number!"
+#~ msgstr "Lütfən düzgün telefon nömrəsi daxil edin!"
+
+#~ msgid "CONFIRM BOOKING"
+#~ msgstr "TAMAMLA"
+
+#~ msgid "There is no any Location for select."
+#~ msgstr "Seçiləcək məkan tapılmadı."
+
+#~ msgid "Staff not found. Please go back and select a different option."
+#~ msgstr "Kadr tapılmadı. Lütfən geriyə qayıdın və düzgün seçim edin."
+
+#~ msgid "Service not found. Please go back and select a different option."
+#~ msgstr "Xidmət tapılmadı. Lütfən geriyə qayıdın və düzgün seçim edin."
+
+#~ msgid "There isn't any available staff for the selected date/time."
+#~ msgstr "Seçilən tarix/saat üçün uygun kadr yoxdur."
+
+#~ msgid "Extras not found in this service. You can select other service or click the <span class=\"booknetic_text_primary\">\"Next step\"</span> button."
+#~ msgstr "Bu xidmət üçün əlavə xidmət tapılmadı. Başqa servis seçəbilər və ya <span class=\"booknetic_text_primary\">\"DAVAM\"</span> edəbilərsiniz."
+
+#~ msgid "w"
+#~ msgstr "h"
+
+#~ msgid "d"
+#~ msgstr "g"
+
+#~ msgid "h"
+#~ msgstr "s"
+
+#~ msgid "m"
+#~ msgstr "a"
+
+#~ msgid "s"
+#~ msgstr "s"
+
+#, fuzzy
+#~ msgid "Confirmation number is invalid!"
+#~ msgstr "Sizin rezervasiya kodunuz:"
+
+#, fuzzy
+#~ msgid "Select file to restore"
+#~ msgstr "Extra xidmət seçimi"
+
+#~ msgid "Finish"
+#~ msgstr "Bitiş"
+
+#, fuzzy
+#~ msgid "Hide a confirmation number"
+#~ msgstr "Sizin rezervasiya kodunuz:"
+
+#, fuzzy
+#~ msgid "Starting confirmation number"
+#~ msgstr "Sizin rezervasiya kodunuz:"
+
+#, fuzzy
+#~ msgid "Timezone"
+#~ msgstr "Time"
+
+#, fuzzy
+#~| msgid "Location"
+#~ msgid "Location ID"
+#~ msgstr "Məkan"
+
+#, fuzzy
+#~ msgid "Skip the Confirmation step"
+#~ msgstr "Confirmation"
+
+#, fuzzy
+#~ msgid "Cart page"
+#~ msgstr "Başlama tarixi"
+
+#, fuzzy
+#~ msgid "There is no Location to match your request."
+#~ msgstr "There is no any Location for select."
+
+#, fuzzy
+#~ msgid "Please select payment method!"
+#~ msgstr "Please select date."
+
+#~ msgid "Thank you for your request!"
+#~ msgstr "Rezervasiyanız qeydə alındı"
+
+#~ msgid "Your confirmation number:"
+#~ msgstr "Təsdiqləmə nömrəniz:"
+
+#~ msgid "ADD TO GOOGLE CALENDAR"
+#~ msgstr "GOOGLE CALENDARA ƏLAVƏ ET"
+
+#~ msgid "START NEW BOOKING"
+#~ msgstr "YENİ REZERVASİYA"
+
+#~ msgid "FINISH BOOKING"
+#~ msgstr "TAMAMLA"
+
+#, fuzzy
+#~ msgid "Coupon"
+#~ msgstr "Add coupon"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#, fuzzy
+#~ msgid "Giftcard"
+#~ msgstr "Credit card"
+
+#~ msgid "Total price"
+#~ msgstr "Ümumi qiymət"
+
+#~ msgid "Full amount"
+#~ msgstr "Tam məbləğ"
+
+#~ msgid "Select date"
+#~ msgstr "Tarixi seçin"
+
+#, fuzzy
+#~ msgid "Please enter the purchase code!"
+#~ msgstr "Please enter a valid phone number!"
+
+#~ msgid "Select staff"
+#~ msgstr "Kadr seçin"
+
+#~ msgid "Select location"
+#~ msgstr "Məkan seçin"
+
+#~ msgid "Select service extras"
+#~ msgstr "Əlavə xidmət seçin"
+
+#~ msgid "Fill information"
+#~ msgstr "Məlumatı doldurun"
+
+#~ msgid "Select Date & Time"
+#~ msgstr "Tarix və Saatı seçin"
+
+#~ msgid "Confirm Details"
+#~ msgstr "Məlumatı təsdiqlə"
+
+#, fuzzy
+#~ msgid "second"
+#~ msgstr "Second"
+
+#, fuzzy
+#~ msgid "seconds"
+#~ msgstr "Second"

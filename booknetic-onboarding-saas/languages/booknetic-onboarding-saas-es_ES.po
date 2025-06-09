@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Booknetic SaaS Tenant Onboarding & Help Center Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-07 13:46+0000\n"
+"PO-Revision-Date: 2025-02-09 15:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1\n"
+"X-Domain: booknetic-onboarding-saas"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Add New Category"
+msgstr "Agregar nueva categoría"
+
+msgid "Add New Topic"
+msgstr "Agregar nuevo tema"
+
+msgid "Add Topic"
+msgstr "Agregar tema"
+
+msgid "Add your HTML code here"
+msgstr "Añade tu código HTML aquí"
+
+msgid "Are you sure?"
+msgstr "¿Está seguro?"
+
+msgid "Back to Control Panel"
+msgstr "Volver al panel de control"
+
+msgid "Back to Help Desk"
+msgstr "Volver al servicio de asistencia técnica"
+
+#. Name of the plugin
+msgid "Booknetic SaaS Tenant Onboarding & Help Center Add-on"
+msgstr "Booknetic SaaS Tenant Onboarding & Help Center Add-on"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Content"
+msgstr "Contenido"
+
+msgid "Control Panel"
+msgstr "Panel de control"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit Topic"
+msgstr "Editar tema"
+
+msgid "Edit your content here..."
+msgstr "Edita tu contenido aquí..."
+
+#. Description of the plugin
+msgid ""
+"Enhance your tenant experience with the Booknetic SaaS Tenant Onboarding & "
+"Help Center Add-on."
+msgstr ""
+"Mejore la experiencia de sus inquilinos con el complemento Booknetic SaaS "
+"Tenant Onboarding & Help Center Add-on."
+
+msgid "Enter your content here..."
+msgstr "Ingresa tu contenido aquí..."
+
+msgid "Help Center"
+msgstr "Centro de ayuda"
+
+msgid "Help Desk"
+msgstr "Mesa de ayuda"
+
+msgid "How can we help?"
+msgstr "¿Cómo podemos ayudarte?"
+
+#. Author URI of the plugin
+msgid "https://www.booknetic.com"
+msgstr "https://www.booknetic.com"
+
+msgid "ID"
+msgstr "IDENTIFICACIÓN"
+
+msgid "Live Chat"
+msgstr "Chat en vivo"
+
+msgid "Manage Categories"
+msgstr "Administrar categorías"
+
+msgid "Manage Live Chat"
+msgstr "Administrar el chat en vivo"
+
+msgid "Manage LiveChat"
+msgstr "Administrar Chat en Vivo"
+
+msgid "Manage Topics"
+msgstr "Administrar temas"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Next"
+msgstr "Próximo"
+
+msgid "No categories found"
+msgstr "No se encontraron categorías"
+
+msgid "No categories found."
+msgstr "No se encontraron categorías"
+
+msgid "No topics found"
+msgstr "No se encontraron temas"
+
+msgid "No topics found matching your search."
+msgstr "No se encontraron temas que coincidan con tu búsqueda."
+
+msgid "No topics found."
+msgstr "No se encontraron temas."
+
+msgid "Prev"
+msgstr "Anterior"
+
+msgid "Re-order Categories"
+msgstr "Reordenar categorías"
+
+msgid "Save Category"
+msgstr "Guardar categoría"
+
+msgid "Save Live Chat"
+msgstr "Guardar chat en vivo"
+
+msgid "SEARCH"
+msgstr "BUSCAR"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Search Beacon, Docs, Reports, etc"
+msgstr "Búsqueda de balizas, documentos, informes, etc."
+
+msgid "Search Results for"
+msgstr "Resultados de búsqueda para"
+
+msgid "Search topics..."
+msgstr "Buscar temas..."
+
+msgid "Select a Category"
+msgstr "Seleccione una categoría"
+
+#. Author of the plugin
+msgid "Tahir"
+msgstr "Tahir"
+
+msgid "This action cannot be undone!"
+msgstr "¡Esta acción no se puede deshacer!"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Topic Added Successfully!"
+msgstr "¡Tema añadido exitosamente!"
+
+msgid "Topic Successfully Deleted!"
+msgstr "¡Tema eliminado exitosamente!"
+
+msgid "Topic Updated Successfully!"
+msgstr "¡Tema actualizado exitosamente!"
+
+msgid "Update Topic"
+msgstr "Actualizar tema"
+
+msgid "We couldn’t find any results for your search."
+msgstr "No pudimos encontrar ningún resultado para su búsqueda."
+
+msgid "Yes, delete it!"
+msgstr "¡Sí, bórralo!"

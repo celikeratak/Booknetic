@@ -1,0 +1,1940 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Booknetic SaaS Tenant Onboarding & Help Center Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-07 13:45+0000\n"
+"PO-Revision-Date: 2025-03-26 12:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Türkçe\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1\n"
+"X-Domain: booknetic-onboarding-saas"
+
+#: App/Backend/includes/ajax-handlers.php:372
+#, php-format
+#| msgid "Category deleted successfully!"
+msgid "%d categories deleted successfully"
+msgstr "%d kategori başarıyla silindi"
+
+#: App/Backend/includes/template-functions.php:349
+#, php-format
+msgid "%d min read"
+msgstr "%d dakikalık okuma"
+
+#: App/Backend/includes/ajax-handlers.php:281
+#, php-format
+msgid "%d topics deleted successfully"
+msgstr "%d konu başarıyla silindi"
+
+#: App/Backend/includes/feedback-handler.php:214
+#: App/Backend/includes/template-functions.php:450
+#, php-format
+msgid "%d%% of %d people found this helpful"
+msgstr "%d kişiden %d%% kişi bunu yararlı buldu"
+
+#: App/Backend/view/topics-add.php:189
+msgid "(e.g.) https://www.booknetic.com/documentation/notifications"
+msgstr "(ör.) https://www.booknetic.com/documentation/notifications"
+
+#: App/Backend/view/settings.php:488
+msgid "100+ help topics with sample content"
+msgstr "Örnek içerikli 100'den fazla yardım konusu"
+
+#: App/Backend/view/settings.php:487
+msgid "12 help center categories with icons"
+msgstr "Simgelerle 12 yardım merkezi kategorisi"
+
+#: App/Backend/view/settings.php:489
+msgid "400-600 sample search logs"
+msgstr "400-600 örnek arama kaydı"
+
+#: App/Backend/view/manage-categories.php:144
+#: App/Backend/view/manage-categories.php:329
+#: App/Backend/view/manage-topics.php:232 App/Backend/view/settings.php:545
+#: App/Backend/view/settings.php:634
+msgid "Actions"
+msgstr "Eylemler"
+
+#: App/Backend/includes/localization.php:147
+msgid "Adapting cultural nuances..."
+msgstr "Kültürel nüansları uyarlamak..."
+
+#: App/Backend/includes/template-functions.php:631
+#, fuzzy
+#| msgid "Save Category"
+msgid "Add Category"
+msgstr "Kategoriyi Kaydet"
+
+#: App/Backend/view/modals/menu-link-modal.php:19
+msgid "Add Menu Link"
+msgstr "Menü Bağlantısı Ekle"
+
+#: App/Backend/view/settings.php:533 App/Backend/view/settings.php:620
+#, fuzzy
+#| msgid "ADD NEW"
+msgid "Add New"
+msgstr "YENİ EKLE"
+
+#: App/Backend/includes/localization.php:103
+#: App/Backend/view/manage-categories.php:275
+#: App/Backend/view/reorder-categories.php:133
+msgid "Add New Category"
+msgstr "Yeni Kategori Ekle"
+
+#: App/Backend/includes/localization.php:91
+#: App/Backend/view/manage-topics.php:184 App/Backend/view/topics-add.php:166
+#: App/Backend/view/topics-add.php:176
+msgid "Add New Topic"
+msgstr "Yeni Konu Ekle"
+
+#: App/Backend/view/topics-add.php:177
+msgid "Add new topic to your help center."
+msgstr "Yardım merkezinize yeni konu ekleyin."
+
+#: App/Backend/includes/localization.php:201 App/Backend/view/settings.php:1013
+msgid "Add Social Media Link"
+msgstr "Sosyal Medya Bağlantısı Ekle"
+
+#: App/Backend/view/settings.php:405
+msgid "Add your custom CSS rules"
+msgstr "Özel CSS kurallarınızı ekleyin"
+
+#: App/Backend/view/modals/custom-page-modal.php:61
+msgid "Add your HTML code here"
+msgstr "HTML kodunuzu buraya ekleyin"
+
+#: App/Backend/view/settings.php:134
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: App/Backend/includes/manage-addons.php:145
+msgid "All Add-ons"
+msgstr "Tüm Eklentiler"
+
+#: App/Backend/includes/template-functions.php:663
+msgid "All rights reserved."
+msgstr "Her hakkı saklıdır."
+
+#: App/Backend/view/settings.php:698
+msgid "Allow users to provide feedback on help articles (thumbs up/down)"
+msgstr ""
+"Kullanıcıların yardım makaleleri hakkında geri bildirimde bulunmalarına izin "
+"verin (beğenme/beğenmeme)"
+
+#: App/Backend/includes/localization.php:153
+msgid "Almost there..."
+msgstr "Neredeyse tamam..."
+
+#: App/Backend/view/manage-topics.php:519
+msgid "An error occurred while adding the topic!"
+msgstr "Konu eklenirken bir hata oluştu!"
+
+#: App/Backend/includes/ajax-handlers.php:380
+msgid "An error occurred while deleting categories"
+msgstr "Kategoriler silinirken bir hata oluştu"
+
+#: App/Backend/view/manage-topics.php:517
+msgid "An error occurred while deleting the topic!"
+msgstr "Konu silinirken bir hata oluştu!"
+
+#: App/Backend/includes/ajax-handlers.php:289
+msgid "An error occurred while deleting topics"
+msgstr "Konular silinirken bir hata oluştu"
+
+#: App/Backend/view/manage-topics.php:521
+msgid "An error occurred while updating the topic!"
+msgstr "Konu güncellenirken bir hata oluştu!"
+
+#: App/Backend/includes/localization.php:145
+msgid "Analyzing language structure..."
+msgstr "Dil yapısının analizi..."
+
+#: App/Backend/view/settings.php:757
+msgid "API Key"
+msgstr "API Anahtarı"
+
+#: App/Backend/includes/localization.php:137
+msgid "API key is missing. Please configure it in the settings."
+msgstr "API anahtarı eksik. Lütfen ayarlardan yapılandırın."
+
+#: App/Backend/includes/manage-addons.php:87 App/Backend/view/settings.php:119
+msgid "Appearance"
+msgstr "Dış görünüş"
+
+#: App/Backend/view/topics-add.php:248 App/Backend/view/topics-add.php:250
+#: App/Backend/view/topics-edit.php:217 App/Backend/view/topics-edit.php:219
+msgid "Arabic"
+msgstr "Arapça"
+
+#: App/Backend/includes/localization.php:106
+msgid ""
+"Are you sure you want to delete this category? All topics in this category "
+"will be moved to Uncategorized."
+msgstr ""
+"Bu kategoriyi silmek istediğinizden emin misiniz? Bu kategorideki tüm "
+"konular Kategorilendirilmemiş'e taşınacak."
+
+#: App/Backend/view/settings.php:971
+msgid "Are you sure you want to delete this item?"
+msgstr "Bu öğeyi silmek istediğinizden emin misiniz?"
+
+#: App/Backend/includes/localization.php:202 App/Backend/view/settings.php:1014
+msgid "Are you sure you want to delete this social media link?"
+msgstr "Bu sosyal medya bağlantısını silmek istediğinizden emin misiniz?"
+
+#: App/Backend/includes/localization.php:94
+msgid "Are you sure you want to delete this topic?"
+msgstr "Bu konuyu silmek istediğinize emin misiniz?"
+
+#: App/Backend/view/manage-topics.php:512
+msgid "Are you sure?"
+msgstr "Emin misin?"
+
+#: App/Backend/view/topics-add.php:355 App/Backend/view/topics-edit.php:322
+msgid "Attachments"
+msgstr "Ekler"
+
+#: App/Backend/view/check-for-updates.php:90
+msgid "Automatically check for updates"
+msgstr "Güncellemeleri otomatik olarak kontrol et"
+
+#: App/Backend/view/dashboard.php:277
+msgid "Avg. Views per Topic"
+msgstr "Konu Başına Ortalama Görüntüleme"
+
+#: App/Backend/view/dashboard.php:102 App/Backend/view/topics-add.php:158
+#: App/Backend/view/topics-edit.php:142
+msgid "Back"
+msgstr "Geri"
+
+#: App/Backend/includes/template-functions.php:216
+#: App/Backend/view/subpage.php:514
+msgid "Back to Help Center"
+msgstr "Yardım Merkezine Geri Dön"
+
+#: App/Backend/includes/template-functions.php:224
+msgid "Back to Help Desk"
+msgstr "Yardım Masasına Geri Dön"
+
+#: App/Backend/view/check-for-updates.php:63
+#: App/Backend/view/migration-section.php:81
+msgid "Backup Management"
+msgstr "Yedekleme Yönetimi"
+
+#: App/Backend/view/settings.php:210
+msgid "Brand"
+msgstr "Marka"
+
+#: App/Backend/view/manage-categories.php:412
+#: App/Backend/view/modals/custom-page-modal.php:34
+#: App/Backend/view/modals/social-link-modal.php:39
+msgid "Browse"
+msgstr "Gözat"
+
+#: App/Backend/view/settings.php:376
+msgid "Buttons"
+msgstr "Düğmeler"
+
+#: App/Backend/view/manage-topics.php:513
+#: App/Backend/view/modals/menu-link-modal.php:48
+#: App/Backend/view/reorder-categories.php:201
+#: App/Backend/view/topics-add.php:375 App/Backend/view/topics-edit.php:365
+msgid "Cancel"
+msgstr "İptal etmek"
+
+#: App/Backend/view/dashboard.php:120
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: App/Backend/includes/localization.php:193 App/Backend/view/settings.php:1007
+msgid "Categories reordered successfully!"
+msgstr "Kategoriler başarıyla yeniden sıralandı!"
+
+#: App/Backend/includes/localization.php:188 App/Backend/view/settings.php:1002
+msgid "categories. This action cannot be undone."
+msgstr "kategoriler. Bu eylem geri alınamaz."
+
+#: App/Backend/view/manage-categories.php:313
+#: App/Backend/view/manage-categories.php:374
+#: App/Backend/view/manage-topics.php:225 App/Backend/view/topics-add.php:338
+#: App/Backend/view/topics-edit.php:305
+msgid "Category"
+msgstr "Kategori"
+
+#: App/Backend/view/settings.php:347
+msgid "Category Card"
+msgstr "Kategori Kartı"
+
+#: App/Backend/includes/localization.php:107
+msgid "Category deleted successfully"
+msgstr "Kategori başarıyla silindi"
+
+#: App/Backend/includes/localization.php:191 App/Backend/view/settings.php:1005
+msgid "Category deleted successfully!"
+msgstr "Kategori başarıyla silindi!"
+
+#: App/Backend/view/dashboard.php:147
+msgid "Category Distribution"
+msgstr "Kategori Dağılımı"
+
+#: App/Backend/view/manage-categories.php:385
+msgid "Category Name"
+msgstr "Kategori Adı"
+
+#: App/Backend/includes/localization.php:189 App/Backend/view/settings.php:1003
+msgid "Category saved successfully!"
+msgstr "Kategori başarıyla kaydedildi!"
+
+#: App/Backend/includes/ajax-handlers.php:335
+#, php-format
+msgid "Category with ID %d does not exist"
+msgstr "%d ID'li kategori mevcut değil"
+
+#: App/Backend/view/settings.php:974
+msgid "Changes saved successfully!"
+msgstr "Değişiklikler başarıyla kaydedildi!"
+
+#: App/Backend/view/settings.php:753
+msgid "ChatGPT API Settings"
+msgstr "ChatGPT API Ayarları"
+
+#: App/Backend/includes/manage-addons.php:125
+msgid "Check add-on"
+msgstr "Eklentiyi kontrol edin"
+
+#: App/Backend/view/check-for-updates.php:22
+#, fuzzy
+#| msgid "Check for Updates"
+msgid "Check for updates"
+msgstr "Güncellemeleri Kontrol Et"
+
+#: App/Backend/includes/template-functions.php:210
+msgid "Check your spelling"
+msgstr "Yazımınızı kontrol edin"
+
+#: App/Backend/includes/localization.php:170 App/Backend/view/settings.php:987
+msgid "Check your spelling and try again"
+msgstr "Yazımınızı kontrol edip tekrar deneyin"
+
+#: App/Backend/view/migration-section.php:40
+msgid "Checking status..."
+msgstr "Durum kontrol ediliyor..."
+
+#: App/Backend/view/topics-add.php:252 App/Backend/view/topics-add.php:254
+#: App/Backend/view/topics-edit.php:221 App/Backend/view/topics-edit.php:223
+msgid "Chinese"
+msgstr "Çince"
+
+#: App/Backend/view/topics-add.php:351 App/Backend/view/topics-edit.php:318
+msgid "Choose where this topic should appear"
+msgstr "Bu konunun nerede görüneceğini seçin"
+
+#: App/Backend/view/settings.php:473
+msgid "Clear existing help center data before adding dummy data"
+msgstr "Sahte veri eklemeden önce mevcut yardım merkezi verilerini temizleyin"
+
+#: App/Backend/includes/localization.php:49
+#: App/Backend/includes/localization.php:177
+#: App/Backend/view/manage-categories.php:420
+#: App/Backend/view/modals/social-link-modal.php:55
+#: App/Backend/view/settings.php:994
+msgid "Close"
+msgstr "Kapalı"
+
+#: App/Backend/view/settings.php:190
+msgid "Color Presets"
+msgstr "Renk Ön Ayarları"
+
+#: App/Backend/view/settings.php:158
+msgid "Color Settings"
+msgstr "Renk Ayarları"
+
+#: App/Backend/view/settings.php:490
+msgid "Color settings and theme customizations"
+msgstr "Renk ayarları ve tema özelleştirmeleri"
+
+#: App/Backend/Controller.php:987
+msgid "Color settings saved successfully!"
+msgstr "Renk ayarları başarıyla kaydedildi!"
+
+#: App/Backend/view/check-for-updates.php:15
+msgid "Coming Soon"
+msgstr "Yakında gelecek"
+
+#: App/Backend/view/check-for-updates.php:85
+msgid "Configure how updates are handled for your plugin."
+msgstr "Eklentiniz için güncellemelerin nasıl işleneceğini yapılandırın."
+
+#: App/Backend/Controller.php:29 App/Backend/includes/data-provider.php:309
+#: App/Backend/view/settings.php:59
+msgid "Contact Support"
+msgstr "Destek ile İletişime Geçin"
+
+#: App/Backend/view/settings.php:124 App/Backend/view/topics-add.php:328
+#: App/Backend/view/topics-edit.php:295
+msgid "Content"
+msgstr "İçerik"
+
+#: App/Backend/view/dashboard.php:267
+msgid "Content Coverage"
+msgstr "İçerik Kapsamı"
+
+#: App/Backend/view/dashboard.php:191
+msgid "Content Engagement"
+msgstr "İçerik Katılımı"
+
+#: App/Backend/includes/localization.php:157
+msgid "Content extracted successfully!"
+msgstr "İçerik başarıyla çıkarıldı!"
+
+#: App/Backend/includes/localization.php:140
+msgid "Content is too long for translation. Please reduce the content size."
+msgstr "İçerik çeviri için çok uzun. Lütfen içerik boyutunu küçültün."
+
+#: App/Backend/includes/localization.php:135 App/Backend/view/topics-add.php:48
+msgid "Content translated successfully!"
+msgstr "İçerik başarıyla çevrildi!"
+
+#: App/Backend/includes/template-functions.php:600
+#: App/Backend/includes/template-functions.php:602
+msgid "Control Panel"
+msgstr "Kontrol Paneli"
+
+#: App/Backend/includes/localization.php:131 App/Backend/view/topics-add.php:45
+msgid "Copied!"
+msgstr "Kopyalandı!"
+
+#: App/Backend/includes/localization.php:130 App/Backend/view/topics-add.php:44
+msgid "Copy Link"
+msgstr "Bağlantıyı Kopyala"
+
+#: App/Backend/Controller.php:737
+msgid "Copyright text is required"
+msgstr "Telif hakkı metni gereklidir"
+
+#: App/Backend/view/migration-section.php:82
+msgid "Create and manage database backups."
+msgstr "Veritabanı yedeklerini oluşturun ve yönetin."
+
+#: App/Backend/view/migration-section.php:84
+msgid "Create Backup"
+msgstr "Yedekleme Oluştur"
+
+#: App/Backend/view/migration-section.php:66
+msgid "Create backup before migration"
+msgstr "Göçten önce yedekleme oluşturun"
+
+#: App/Backend/view/check-for-updates.php:69
+msgid "Create backup before updating"
+msgstr "Güncellemeden önce yedekleme oluşturun"
+
+#: App/Backend/view/check-for-updates.php:32
+#: App/Backend/view/migration-section.php:23
+msgid "Current Version:"
+msgstr "Güncel Sürüm:"
+
+#: App/Backend/view/settings.php:400
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: App/Backend/view/settings.php:205
+msgid "Dark"
+msgstr "Karanlık"
+
+#: App/Backend/view/dashboard.php:74 App/Backend/view/manage-categories.php:250
+#: App/Backend/view/manage-topics.php:153
+#: App/Backend/view/recommended-addons.php:71
+#: App/Backend/view/reorder-categories.php:103 App/Backend/view/settings.php:92
+#: App/Backend/view/topics-add.php:135 App/Backend/view/topics-edit.php:119
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+#: App/Backend/view/migration-section.php:105
+msgid "Database Backups"
+msgstr "Veritabanı Yedeklemeleri"
+
+#: App/Backend/view/migration-section.php:13
+msgid "Database Compatibility Status"
+msgstr "Veritabanı Uyumluluk Durumu"
+
+#: App/Backend/view/topics-add.php:216 App/Backend/view/topics-edit.php:185
+msgid "DE"
+msgstr "Almanya"
+
+#: App/Backend/includes/localization.php:105
+msgid "Delete Category"
+msgstr "Kategoriyi Sil"
+
+#: App/Backend/view/manage-categories.php:282
+#: App/Backend/view/manage-topics.php:187
+msgid "Delete Selected"
+msgstr "Seçilenleri Sil"
+
+#: App/Backend/includes/localization.php:93
+msgid "Delete Topic"
+msgstr "Konuyu Sil"
+
+#: App/Backend/view/manage-categories.php:143
+#: App/Backend/view/manage-categories.php:322
+#: App/Backend/view/manage-categories.php:395
+msgid "Description"
+msgstr "Tanım"
+
+#: App/Backend/view/modals/social-link-modal.php:49
+msgid "Display Order"
+msgstr "Görüntüleme Sırası"
+
+#: App/Backend/view/settings.php:734
+msgid "Display popular topics under the search box on the main page"
+msgstr "Ana sayfadaki arama kutusunun altında popüler konuları görüntüleyin"
+
+#: App/Backend/view/settings.php:707
+msgid ""
+"Display the \"Still need help?\" section with support button at the bottom "
+"of articles"
+msgstr ""
+"Makalelerin alt kısmında destek düğmesiyle birlikte \"Hala yardıma mı "
+"ihtiyacınız var?\" bölümünü görüntüleyin"
+
+#: App/Backend/includes/localization.php:115
+msgid "Drag categories to reorder"
+msgstr "Kategorileri yeniden sıralamak için sürükleyin"
+
+#: App/Backend/view/settings.php:458
+msgid "Dummy Data"
+msgstr "Sahte Veriler"
+
+#: App/Backend/view/topics-add.php:221 App/Backend/view/topics-add.php:256
+#: App/Backend/view/topics-add.php:258 App/Backend/view/topics-edit.php:190
+#: App/Backend/view/topics-edit.php:225 App/Backend/view/topics-edit.php:227
+msgid "Dutch"
+msgstr "Flemenkçe"
+
+#: App/Backend/includes/localization.php:104
+msgid "Edit Category"
+msgstr "Kategoriyi Düzenle"
+
+#: App/Backend/view/modals/custom-page-modal.php:19
+msgid "Edit Custom Page"
+msgstr "Özel Sayfayı Düzenle"
+
+#: App/Backend/view/settings.php:433
+msgid "Edit Footer Text"
+msgstr "Altbilgi Metnini Düzenle"
+
+#: App/Backend/includes/localization.php:200 App/Backend/view/settings.php:1012
+msgid "Edit Social Media Link"
+msgstr "Sosyal Medya Bağlantısını Düzenle"
+
+#: App/Backend/includes/localization.php:92
+msgid "Edit Topic"
+msgstr "Konuyu Düzenle"
+
+#: App/Backend/view/topics-edit.php:150
+#, fuzzy
+#| msgid "Edit Topic"
+msgid "Editing topic"
+msgstr "Konuyu Düzenle"
+
+#: App/Backend/view/modals/custom-page-modal.php:61
+msgid "Embed Code"
+msgstr "Gömülü Kod"
+
+#: App/Backend/view/settings.php:784
+msgid "Enable ChatGPT Integration"
+msgstr "ChatGPT Entegrasyonunu Etkinleştir"
+
+#: App/Backend/view/settings.php:689
+msgid ""
+"Enable or disable specific features in the Help Center. Changes will be "
+"applied immediately."
+msgstr ""
+"Yardım Merkezi'ndeki belirli özellikleri etkinleştirin veya devre dışı "
+"bırakın. Değişiklikler hemen uygulanacaktır."
+
+#: App/Backend/view/settings.php:725
+msgid "Enable the live chat widget in the help center"
+msgstr "Yardım merkezinde canlı sohbet widget'ını etkinleştirin"
+
+#: App/Backend/view/topics-add.php:260 App/Backend/view/topics-add.php:262
+#: App/Backend/view/topics-edit.php:229 App/Backend/view/topics-edit.php:231
+msgid "English"
+msgstr "İngilizce"
+
+#: App/Backend/view/recommended-addons.php:100
+msgid "Enhance your Booknetic experience with powerful add-ons."
+msgstr "Güçlü eklentilerle Booknetic deneyiminizi geliştirin."
+
+#: App/Backend/includes/localization.php:151
+msgid "Ensuring natural language flow..."
+msgstr "Doğal dil akışının sağlanması..."
+
+#: App/Backend/view/topics-add.php:187
+msgid ""
+"Enter a URL from Booknetic documentation or features pages to automatically "
+"extract content."
+msgstr ""
+"İçeriği otomatik olarak çıkarmak için Booknetic dokümantasyonundan veya "
+"özellik sayfalarından bir URL girin."
+
+#: App/Backend/view/modals/custom-page-modal.php:37
+msgid "Enter Font Awesome icon class (e.g., fas fa-comments)"
+msgstr "Font Awesome simge sınıfını girin (örneğin, fas fa-comments)"
+
+#: App/Backend/view/topics-add.php:324
+msgid "Enter topic title"
+msgstr "Konu başlığını girin"
+
+#: App/Backend/includes/localization.php:125 App/Backend/view/topics-add.php:36
+msgid "Enter your content here..."
+msgstr "İçeriğinizi buraya girin..."
+
+#: App/Backend/includes/localization.php:138
+msgid "Error communicating with translation service"
+msgstr "Çeviri hizmetiyle iletişimde hata oluştu"
+
+#: App/Backend/view/reorder-categories.php:206
+msgid "Error in server response"
+msgstr "Sunucu yanıtında hata"
+
+#: App/Backend/view/reorder-categories.php:203
+msgid "Error saving order. Please try again."
+msgstr "Sipariş kaydedilirken hata oluştu. Lütfen tekrar deneyin."
+
+#: App/Backend/view/topics-add.php:210 App/Backend/view/topics-edit.php:179
+msgid "ES"
+msgstr "Türkçe"
+
+#: App/Backend/includes/localization.php:156
+msgid "Extracting content..."
+msgstr "İçerik çıkarılıyor..."
+
+#: App/Backend/includes/localization.php:186 App/Backend/view/settings.php:1000
+msgid "Failed to delete categories."
+msgstr "Kategoriler silinemedi."
+
+#: App/Backend/includes/localization.php:192 App/Backend/view/settings.php:1006
+msgid "Failed to delete category"
+msgstr "Kategori silinemedi"
+
+#: App/Backend/includes/ajax-handlers.php:352
+#, php-format
+msgid "Failed to delete category with ID %d: %s"
+msgstr "%d kimliğine sahip kategori silinemedi: %s"
+
+#: App/Backend/view/settings.php:973
+msgid "Failed to delete item"
+msgstr "Öğe silinemedi"
+
+#: App/Backend/includes/localization.php:204 App/Backend/view/settings.php:1016
+msgid "Failed to delete social media link"
+msgstr "Sosyal medya bağlantısı silinemedi"
+
+#: App/Backend/includes/ajax-handlers.php:362
+msgid "Failed to delete some categories"
+msgstr "Bazı kategoriler silinemedi"
+
+#: App/Backend/includes/ajax-handlers.php:271
+msgid "Failed to delete some topics"
+msgstr "Bazı konuların silinmesi başarısız oldu"
+
+#: App/Backend/includes/ajax-handlers.php:261
+#, php-format
+msgid "Failed to delete topic with ID %d: %s"
+msgstr "%d kimliğine sahip konu silinemedi: %s"
+
+#: App/Backend/includes/localization.php:158
+msgid "Failed to extract content"
+msgstr "İçerik çıkarılamadı"
+
+#: App/Backend/includes/localization.php:75
+#: App/Backend/includes/localization.php:227 App/Backend/view/settings.php:1038
+msgid "Failed to load livechat page settings"
+msgstr "Canlı sohbet sayfası ayarları yüklenemedi"
+
+#: App/Backend/includes/localization.php:59
+#: App/Backend/includes/localization.php:73 App/Backend/view/settings.php:979
+#: App/Backend/view/settings.php:1030
+msgid "Failed to process request"
+msgstr "İstek işlenemedi"
+
+#: App/Backend/includes/localization.php:194 App/Backend/view/settings.php:1008
+msgid "Failed to reorder categories"
+msgstr "Kategoriler yeniden sıralanamadı"
+
+#: App/Backend/includes/feedback-handler.php:208
+msgid "Failed to retrieve feedback stats"
+msgstr "Geri bildirim istatistikleri alınamadı"
+
+#: App/Backend/includes/localization.php:30
+#: App/Backend/includes/localization.php:71 App/Backend/view/settings.php:1037
+msgid "Failed to save"
+msgstr "Kaydedilemedi"
+
+#: App/Backend/includes/localization.php:190 App/Backend/view/settings.php:1004
+msgid "Failed to save category"
+msgstr "Kategori kaydedilemedi"
+
+#: App/Backend/view/settings.php:975
+msgid "Failed to save changes"
+msgstr "Değişiklikler kaydedilemedi"
+
+#: App/Backend/Controller.php:984
+msgid "Failed to save color settings"
+msgstr "Renk ayarları kaydedilemedi"
+
+#: App/Backend/includes/feature-toggles.php:70
+msgid "Failed to save feature toggles."
+msgstr "Özellik geçişleri kaydedilemedi."
+
+#: App/Backend/includes/feedback-handler.php:192
+msgid "Failed to save feedback: "
+msgstr "Geri bildirim kaydedilemedi:"
+
+#: App/Backend/includes/localization.php:70
+#: App/Backend/includes/localization.php:226 App/Backend/view/settings.php:1036
+msgid "Failed to save livechat page settings"
+msgstr "Canlı sohbet sayfası ayarları kaydedilemedi"
+
+#: App/Backend/includes/localization.php:118
+msgid "Failed to save order"
+msgstr "Sipariş kaydedilemedi"
+
+#: App/Backend/includes/ajax-handlers.php:42
+msgid "Failed to save settings"
+msgstr "Ayarlar kaydedilemedi"
+
+#: App/Backend/includes/localization.php:210 App/Backend/view/settings.php:970
+#: App/Backend/view/settings.php:1023
+msgid "Failed to save social media link"
+msgstr "Sosyal medya bağlantısı kaydedilemedi"
+
+#: App/Backend/Controller.php:70 App/Backend/includes/localization.php:57
+#: App/Backend/includes/localization.php:218 App/Backend/view/settings.php:1028
+msgid "Failed to save support link"
+msgstr "Destek bağlantısı kaydedilemedi"
+
+#: App/Backend/includes/localization.php:136 App/Backend/view/topics-add.php:49
+msgid "Failed to translate content"
+msgstr "İçerik çevrilemedi"
+
+#: App/Backend/includes/feature-toggles.php:66
+msgid "Feature toggles saved successfully!"
+msgstr "Özellik geçişleri başarıyla kaydedildi!"
+
+#: App/Backend/view/dashboard.php:289
+msgid "Feedback Rate"
+msgstr "Geri bildirim oranı"
+
+#: App/Backend/view/settings.php:697
+msgid "Feedback Section"
+msgstr "Geri bildirim bölümü"
+
+#: App/Backend/includes/localization.php:152
+msgid "Finalizing translation..."
+msgstr "Çeviri tamamlanıyor..."
+
+#: App/Backend/view/settings.php:200
+msgid "Flat"
+msgstr "Düz"
+
+#: App/Backend/view/settings.php:438
+msgid "Footer Text"
+msgstr "Altbilgi Metni"
+
+#: App/Backend/view/topics-add.php:213 App/Backend/view/topics-edit.php:182
+msgid "FR"
+msgstr "FR"
+
+#: App/Backend/view/topics-add.php:212 App/Backend/view/topics-add.php:264
+#: App/Backend/view/topics-add.php:266 App/Backend/view/topics-edit.php:181
+#: App/Backend/view/topics-edit.php:233 App/Backend/view/topics-edit.php:235
+msgid "French"
+msgstr "Fransızca"
+
+#: App/Backend/includes/template-functions.php:316
+msgid "General"
+msgstr "Genel"
+
+#: App/Backend/view/topics-add.php:215 App/Backend/view/topics-add.php:268
+#: App/Backend/view/topics-add.php:270 App/Backend/view/topics-edit.php:184
+#: App/Backend/view/topics-edit.php:237 App/Backend/view/topics-edit.php:239
+msgid "German"
+msgstr "Almanca"
+
+#: App/Backend/view/settings.php:351
+msgid "Getting Started"
+msgstr "Başlarken"
+
+#: App/Backend/includes/template-functions.php:591
+msgid "Grid view"
+msgstr "Izgara görünümü"
+
+#: App/Backend/view/dashboard.php:246
+msgid "Health Score"
+msgstr "Sağlık Puanı"
+
+#: App/Backend/includes/template-functions.php:325
+#: App/Backend/includes/template-functions.php:521
+#: App/Backend/view/index.php:36 App/ContactUsPAddon.php:92
+#: App/ContactUsPAddon.php:97 App/ContactUsPAddon.php:112
+#: App/ContactUsPAddon.php:125
+msgid "Help Center"
+msgstr "Yardım Merkezi"
+
+#: App/Backend/view/topics-add.php:272 App/Backend/view/topics-add.php:274
+#: App/Backend/view/topics-edit.php:241 App/Backend/view/topics-edit.php:243
+msgid "Hindi"
+msgstr "Hintçe"
+
+#: App/Backend/view/index.php:146
+msgid "How can we help?"
+msgstr "Nasıl yardımcı olabiliriz?"
+
+#: App/Backend/view/settings.php:365
+msgid "How to create your first booking"
+msgstr "İlk rezervasyonunuzu nasıl oluşturabilirsiniz?"
+
+#: App/Backend/view/manage-categories.php:405
+#: App/Backend/view/modals/custom-page-modal.php:27
+#: App/Backend/view/modals/social-link-modal.php:32
+#: App/Backend/view/settings.php:631
+msgid "Icon"
+msgstr "Simge"
+
+#: App/Backend/includes/localization.php:207 App/Backend/view/settings.php:1019
+msgid "Icon is required"
+msgstr "Simge gerekli"
+
+#: App/Backend/view/manage-categories.php:304
+#: App/Backend/view/manage-topics.php:207
+msgid "ID"
+msgstr "İD"
+
+#: App/Backend/view/topics-add.php:191
+msgid "Import"
+msgstr "İçe aktarmak"
+
+#: App/Backend/view/settings.php:479
+msgid "Import Dummy Data"
+msgstr "Sahte Verileri İçe Aktar"
+
+#: App/Backend/view/topics-add.php:186
+msgid "Import from Booknetic resources"
+msgstr "Booknetic kaynaklarından içe aktar"
+
+#: App/Backend/view/settings.php:463
+msgid ""
+"Import sample data to quickly populate your Help Center with categories, "
+"topics, views, and search logs."
+msgstr ""
+"Yardım Merkezinizi kategoriler, konular, görünümler ve arama günlükleriyle "
+"hızla doldurmak için örnek verileri içe aktarın."
+
+#: App/Backend/includes/feedback-handler.php:148
+msgid "Invalid feedback value"
+msgstr "Geçersiz geri bildirim değeri"
+
+#: App/Backend/Controller.php:85 App/Backend/Controller.php:181
+#: App/Backend/Controller.php:220
+msgid "Invalid ID"
+msgstr "Geçersiz kimlik"
+
+#: App/Backend/includes/feature-toggles.php:40
+msgid "Invalid JSON data"
+msgstr "Geçersiz JSON verisi"
+
+#: App/Backend/view/reorder-categories.php:207
+msgid "Invalid JSON response from server"
+msgstr "Sunucudan geçersiz JSON yanıtı"
+
+#: App/Backend/includes/localization.php:31
+#: App/Backend/includes/localization.php:58
+#: App/Backend/includes/localization.php:72
+#: App/Backend/view/reorder-categories.php:204
+#: App/Backend/view/settings.php:978 App/Backend/view/settings.php:1029
+#: App/Backend/view/topics-add.php:41
+msgid "Invalid response from server"
+msgstr "Sunucudan geçersiz yanıt"
+
+#: App/Backend/Controller.php:16 App/Backend/Controller.php:45
+#: App/Backend/Controller.php:311 App/Backend/Controller.php:341
+#: App/Backend/Controller.php:367 App/Backend/Controller.php:421
+#: App/Backend/Controller.php:532 App/Backend/Controller.php:572
+#: App/Backend/Controller.php:648 App/Backend/Controller.php:725
+#: App/Backend/Controller.php:837 App/Backend/Controller.php:868
+#: App/Backend/Controller.php:915 App/Backend/Controller.php:937
+#: App/Backend/view/settings.php:977
+msgid "Invalid security token"
+msgstr "Geçersiz güvenlik belirteci"
+
+#: App/Backend/includes/feedback-handler.php:143
+msgid "Invalid topic ID"
+msgstr "Geçersiz konu kimliği"
+
+#: App/Backend/view/topics-add.php:219 App/Backend/view/topics-edit.php:188
+msgid "IT"
+msgstr "BT"
+
+#: App/Backend/view/topics-add.php:218 App/Backend/view/topics-add.php:276
+#: App/Backend/view/topics-add.php:278 App/Backend/view/topics-edit.php:187
+#: App/Backend/view/topics-edit.php:245 App/Backend/view/topics-edit.php:247
+msgid "Italian"
+msgstr "İtalyan"
+
+#: App/Backend/view/settings.php:972
+msgid "Item deleted successfully!"
+msgstr "Öğe başarıyla silindi!"
+
+#: App/Backend/view/topics-add.php:280 App/Backend/view/topics-add.php:282
+#: App/Backend/view/topics-edit.php:249 App/Backend/view/topics-edit.php:251
+msgid "Japanese"
+msgstr "Japonca"
+
+#: App/Backend/view/dashboard.php:240
+msgid "Knowledge Health"
+msgstr "Bilgi Sağlık"
+
+#: App/Backend/view/topics-add.php:284 App/Backend/view/topics-add.php:286
+#: App/Backend/view/topics-edit.php:253 App/Backend/view/topics-edit.php:255
+msgid "Korean"
+msgstr "Korece"
+
+#: App/Backend/view/modals/menu-link-modal.php:29
+#: App/Backend/view/settings.php:542
+msgid "Label"
+msgstr "Etiket"
+
+#: App/Backend/Controller.php:435
+msgid "Label and URL are required"
+msgstr "Etiket ve URL gereklidir"
+
+#: App/Backend/view/check-for-updates.php:39
+#: App/Backend/view/migration-section.php:30
+msgid "Latest Version:"
+msgstr "Son Sürüm:"
+
+#: App/Backend/view/settings.php:370
+msgid "Learn how to set up and create your first appointment booking..."
+msgstr "İlk randevunuzu nasıl ayarlayacağınızı ve oluşturacağınızı öğrenin..."
+
+#: App/Backend/view/settings.php:352
+msgid "Learn the basics of using the booking system..."
+msgstr "Rezervasyon sisteminin temellerini öğrenin..."
+
+#: App/Backend/includes/template-functions.php:411
+msgid "Let us know if you found what you were looking for"
+msgstr "Aradığınızı bulduğunuzu bize bildirin"
+
+#: App/Backend/Controller.php:582 App/Backend/Controller.php:659
+msgid "Link ID is required"
+msgstr "Bağlantı kimliği gerekli"
+
+#: App/Backend/Controller.php:104 App/Backend/Controller.php:156
+#: App/Backend/Controller.php:201 App/Backend/Controller.php:242
+#: App/Backend/Controller.php:618 App/Backend/Controller.php:695
+msgid "Link not found"
+msgstr "Bağlantı bulunamadı"
+
+#: App/Backend/view/settings.php:129
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: App/Backend/includes/template-functions.php:594
+msgid "List view"
+msgstr "Liste görünümü"
+
+#: App/Backend/view/settings.php:724
+msgid "Live Chat Section"
+msgstr "Canlı Sohbet Bölümü"
+
+#: App/Backend/view/settings.php:492
+msgid "Live chat settings"
+msgstr "Canlı sohbet ayarları"
+
+#: App/Backend/view/settings.php:343
+msgid "Live Preview"
+msgstr "Canlı Önizleme"
+
+#: App/Backend/includes/localization.php:68
+#: App/Backend/includes/localization.php:225 App/Backend/view/settings.php:1034
+msgid "Livechat page settings saved successfully!"
+msgstr "Canlı sohbet sayfası ayarları başarıyla kaydedildi!"
+
+#: App/Backend/view/migration-section.php:113
+msgid "Loading backups..."
+msgstr "Yedeklemeler yükleniyor..."
+
+#: App/Backend/includes/localization.php:85
+msgid "Loading results..."
+msgstr "Sonuçlar yükleniyor..."
+
+#: App/Backend/includes/localization.php:27 App/Backend/view/settings.php:1011
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: App/Backend/view/dashboard.php:82 App/Backend/view/manage-categories.php:258
+#: App/Backend/view/manage-topics.php:161
+#: App/Backend/view/recommended-addons.php:79
+#: App/Backend/view/reorder-categories.php:111
+#: App/Backend/view/settings.php:100 App/Backend/view/topics-add.php:143
+#: App/Backend/view/topics-edit.php:127
+msgid "Manage Categories"
+msgstr "Kategorileri Yönet"
+
+#: App/Backend/view/settings.php:684
+msgid "Manage Options"
+msgstr "Seçenekleri Yönet"
+
+#: App/Backend/view/dashboard.php:78 App/Backend/view/manage-categories.php:254
+#: App/Backend/view/manage-topics.php:157
+#: App/Backend/view/recommended-addons.php:75
+#: App/Backend/view/reorder-categories.php:107 App/Backend/view/settings.php:96
+#: App/Backend/view/topics-add.php:139 App/Backend/view/topics-edit.php:123
+msgid "Manage Topics"
+msgstr "Konuları Yönet"
+
+#: App/Backend/view/check-for-updates.php:64
+msgid "Manage your plugin backups."
+msgstr "Eklenti yedeklerinizi yönetin."
+
+#: App/Backend/view/settings.php:195
+msgid "Material"
+msgstr "Malzeme"
+
+#: App/Backend/view/topics-add.php:359 App/Backend/view/topics-edit.php:326
+msgid "Max file size: 25MB"
+msgstr "Maksimum dosya boyutu: 25MB"
+
+#: App/Backend/view/settings.php:530
+msgid "Menu Links"
+msgstr "Menü Bağlantıları"
+
+#: App/Backend/view/settings.php:772
+msgid "Model"
+msgstr "Örnek"
+
+#: App/Backend/view/dashboard.php:155
+msgid "Most Helpful Topics"
+msgstr "En Faydalı Konular"
+
+#: App/Backend/view/dashboard.php:205
+msgid "Most Viewed Topics"
+msgstr "En Çok Görüntülenen Konular"
+
+#: App/Backend/view/reorder-categories.php:171
+msgid "Move Down"
+msgstr "Aşağı Taşı"
+
+#: App/Backend/view/reorder-categories.php:168
+msgid "Move Up"
+msgstr "Yukarı Taşı"
+
+#: App/Backend/view/manage-categories.php:142
+msgid "Name"
+msgstr "İsim"
+
+#: App/Backend/includes/localization.php:33
+msgid "Network error. Please check your internet connection."
+msgstr "Ağ hatası. Lütfen internet bağlantınızı kontrol edin."
+
+#: App/Backend/view/reorder-categories.php:208
+msgid "Network error. Please try again."
+msgstr "Ağ hatası. Lütfen tekrar deneyin."
+
+#: App/Backend/view/manage-categories.php:488
+#: App/Backend/view/manage-topics.php:314
+msgid "Next"
+msgstr "Sonraki"
+
+#: App/Backend/includes/localization.php:48
+#: App/Backend/includes/localization.php:176 App/Backend/view/settings.php:993
+msgid "Next Image"
+msgstr "Sonraki Resim"
+
+#: App/Backend/view/topics-add.php:222 App/Backend/view/topics-edit.php:191
+msgid "NL"
+msgstr "Hollanda"
+
+#: App/Backend/includes/template-functions.php:418
+msgid "No"
+msgstr "HAYIR"
+
+#: App/Backend/includes/manage-addons.php:104
+msgid "No add-ons available at this time."
+msgstr "Şu anda eklenti mevcut değil."
+
+#: App/Backend/includes/localization.php:109
+#: App/Backend/view/topics-add.php:347 App/Backend/view/topics-edit.php:314
+msgid "No categories found"
+msgstr "Hiçbir kategori bulunamadı"
+
+#: App/Backend/includes/template-functions.php:627
+#: App/Backend/view/manage-categories.php:182
+#: App/Backend/view/manage-categories.php:360
+msgid "No categories found."
+msgstr "Hiçbir kategori bulunamadı."
+
+#: App/Backend/includes/ajax-handlers.php:314
+msgid "No categories selected for deletion"
+msgstr "Silinmek üzere hiçbir kategori seçilmedi"
+
+#: App/Backend/view/reorder-categories.php:209
+msgid "No changes to save"
+msgstr "Kaydedilecek değişiklik yok"
+
+#: App/Backend/includes/template-functions.php:629
+msgid "No help categories have been created yet."
+msgstr "Henüz hiçbir yardım kategorisi oluşturulmadı."
+
+#: App/Backend/includes/localization.php:82
+#: App/Backend/includes/localization.php:168 App/Backend/view/settings.php:985
+msgid "No results found"
+msgstr "Hiçbir sonuç bulunamadı"
+
+#: App/Backend/view/index.php:177
+msgid "No results found."
+msgstr "Sonuç bulunamadı."
+
+#: App/Backend/view/settings.php:663
+msgid "No social media links added yet."
+msgstr "Henüz sosyal medya bağlantısı eklenmedi."
+
+#: App/Backend/includes/localization.php:97
+#: App/Backend/includes/template-functions.php:205
+msgid "No topics found"
+msgstr "Hiçbir konu bulunamadı"
+
+#: App/Backend/includes/template-functions.php:111
+msgid "No topics found matching your search."
+msgstr "Aramanızla eşleşen konu bulunamadı."
+
+#: App/Backend/view/manage-topics.php:272
+msgid "No topics found."
+msgstr "Konu bulunamadı."
+
+#: App/Backend/includes/ajax-handlers.php:232
+msgid "No topics selected for deletion"
+msgstr "Silinmek üzere hiçbir konu seçilmedi"
+
+#: App/Backend/view/migration-section.php:93
+msgid "Operation Result"
+msgstr "İşlem Sonucu"
+
+#: App/Backend/includes/localization.php:150
+msgid "Optimizing terminology..."
+msgstr "Terminolojiyi optimize ediyoruz..."
+
+#: App/Backend/view/topics-add.php:198 App/Backend/view/topics-edit.php:167
+msgid "Optional"
+msgstr "İsteğe bağlı"
+
+#: App/Backend/view/modals/menu-link-modal.php:41
+#: App/Backend/view/settings.php:544
+msgid "Order"
+msgstr "Emir"
+
+#: App/Backend/view/reorder-categories.php:210
+msgid "Order has been reset"
+msgstr "Sipariş sıfırlandı"
+
+#: App/Backend/includes/localization.php:117
+msgid "Order saved successfully"
+msgstr "Sipariş başarıyla kaydedildi"
+
+#: App/Backend/view/reorder-categories.php:202
+msgid "Order saved successfully!"
+msgstr "Siparişiniz başarıyla kaydedildi!"
+
+#: App/Backend/view/dashboard.php:92 App/Backend/view/manage-topics.php:171
+#: App/Backend/view/recommended-addons.php:89
+#: App/Backend/view/reorder-categories.php:121
+msgid "OTA Updates"
+msgstr "OTA Güncellemeleri"
+
+#: App/Backend/view/dashboard.php:96 App/Backend/view/manage-categories.php:267
+#: App/Backend/view/manage-topics.php:175
+#: App/Backend/view/recommended-addons.php:93
+#: App/Backend/view/reorder-categories.php:125
+#: App/Backend/view/settings.php:109 App/Backend/view/topics-add.php:152
+#: App/Backend/view/topics-edit.php:136
+msgid "Other Add-ons"
+msgstr "Diğer Eklentiler"
+
+#: App/Backend/includes/template-functions.php:559
+#| msgid "Reorder categories"
+msgid "Other Categories"
+msgstr "Diğer kategoriler"
+
+#: App/Backend/includes/manage-addons.php:90
+msgid "Others"
+msgstr "Diğerleri"
+
+#: App/Backend/includes/manage-addons.php:89
+msgid "Payment Gateways"
+msgstr "Ödeme Ağ Geçitleri"
+
+#: App/Backend/view/modals/social-link-modal.php:28
+#: App/Backend/view/settings.php:632
+msgid "Platform"
+msgstr "Platform"
+
+#: App/Backend/includes/localization.php:205 App/Backend/view/settings.php:1017
+msgid "Platform name is required"
+msgstr "Platform adı gerekli"
+
+#: App/Backend/includes/template-functions.php:634
+msgid "Please check back later for help content."
+msgstr "Lütfen yardım içeriği için daha sonra tekrar kontrol edin."
+
+#: App/Backend/includes/localization.php:55
+#: App/Backend/includes/localization.php:159
+#: App/Backend/includes/localization.php:208 App/Backend/view/settings.php:966
+#: App/Backend/view/settings.php:1020
+msgid "Please enter a valid URL"
+msgstr "Lütfen geçerli bir URL girin"
+
+#: App/Backend/Controller.php:967
+msgid "Please enter valid hex color codes (e.g., #4050B5)"
+msgstr "Lütfen geçerli onaltılık renk kodlarını girin (örn. #4050B5)"
+
+#: App/Backend/view/topics-add.php:51 App/Backend/view/topics-add.php:392
+msgid "Please extract content first before translating"
+msgstr "Lütfen çevirmeden önce içeriği çıkarın"
+
+#: App/Backend/Controller.php:53 App/Backend/Controller.php:125
+#: App/Backend/view/settings.php:976
+msgid "Please fill all required fields"
+msgstr "Lütfen tüm gerekli alanları doldurun"
+
+#: App/Backend/includes/template-functions.php:401
+msgid "Please log in to provide feedback"
+msgstr "Geri bildirim sağlamak için lütfen giriş yapın"
+
+#: App/Backend/includes/feedback-handler.php:133
+msgid "Please log in to submit feedback"
+msgstr "Geri bildirim göndermek için lütfen giriş yapın"
+
+#: App/Backend/Controller.php:960
+msgid "Please provide both primary and secondary colors"
+msgstr "Lütfen hem birincil hem de ikincil renkleri belirtin"
+
+#: App/Backend/includes/localization.php:142
+msgid "Please provide content before translating"
+msgstr "Lütfen çevirmeden önce içerik sağlayın"
+
+#: App/Backend/includes/localization.php:141 App/Backend/view/topics-add.php:50
+msgid "Please select a target language"
+msgstr "Lütfen bir hedef dil seçin"
+
+#: App/Backend/view/migration-section.php:41
+msgid "Please wait while we check your database status."
+msgstr "Veritabanınızın durumu kontrol edilirken lütfen bekleyin."
+
+#: App/Backend/view/topics-add.php:288 App/Backend/view/topics-add.php:290
+#: App/Backend/view/topics-edit.php:257 App/Backend/view/topics-edit.php:259
+msgid "Polish"
+msgstr "Lehçe"
+
+#: App/Backend/includes/localization.php:166 App/Backend/view/dashboard.php:173
+#: App/Backend/view/settings.php:983
+msgid "Popular Searches"
+msgstr "Popüler Aramalar"
+
+#: App/Backend/includes/localization.php:83 App/Backend/view/index.php:190
+msgid "Popular Topics"
+msgstr "Popüler Konular"
+
+#: App/Backend/view/settings.php:733
+msgid "Popular Topics Section"
+msgstr "Popüler Konular Bölümü"
+
+#: App/Backend/view/topics-add.php:292 App/Backend/view/topics-add.php:294
+#: App/Backend/view/topics-edit.php:261 App/Backend/view/topics-edit.php:263
+msgid "Portuguese"
+msgstr "Portekizce"
+
+#: App/Backend/includes/localization.php:149
+msgid "Preserving document formatting..."
+msgstr "Belge biçimlendirmesi korunuyor..."
+
+#: App/Backend/view/manage-categories.php:464
+#: App/Backend/view/manage-topics.php:288
+msgid "Prev"
+msgstr "Önceki"
+
+#: App/Backend/includes/localization.php:47
+#: App/Backend/includes/localization.php:175 App/Backend/view/settings.php:992
+msgid "Previous Image"
+msgstr "Önceki Resim"
+
+#: App/Backend/view/settings.php:378
+msgid "Primary"
+msgstr "Öncelik"
+
+#: App/Backend/view/settings.php:164
+msgid "Primary Color"
+msgstr "Birincil Renk"
+
+#: App/Backend/includes/localization.php:146
+msgid "Processing semantic context..."
+msgstr "Anlamsal bağlam işleniyor..."
+
+#: App/Backend/view/topics-add.php:376
+msgid "Publish Topic"
+msgstr "Konuyu Yayınla"
+
+#: App/Backend/includes/localization.php:139
+msgid "Rate limit exceeded. Please try again later."
+msgstr "Oran sınırı aşıldı. Lütfen daha sonra tekrar deneyin."
+
+#: App/Backend/view/recommended-addons.php:99
+msgid "Recommended Add-ons"
+msgstr "Önerilen Eklentiler"
+
+#: App/Backend/view/check-for-updates.php:71
+#: App/Backend/view/migration-section.php:68
+msgid "Recommended for safety"
+msgstr "Güvenlik için önerilir"
+
+#: App/Backend/includes/localization.php:148
+msgid "Refining grammar and syntax..."
+msgstr "Dilbilgisi ve sözdiziminin iyileştirilmesi..."
+
+#: App/Backend/includes/template-functions.php:466
+msgid "Related Articles"
+msgstr "İlgili Makaleler"
+
+#: App/Backend/view/settings.php:715
+msgid "Related Articles Section"
+msgstr "İlgili Makaleler Bölümü"
+
+#: App/Backend/view/manage-categories.php:279
+#: App/Backend/view/reorder-categories.php:60
+#: App/Backend/view/reorder-categories.php:137
+#, fuzzy
+#| msgid "Re-order Categories"
+msgid "Reorder Categories"
+msgstr "Kategorileri Yeniden Sırala"
+
+#: App/Backend/includes/feature-toggles.php:31
+msgid "Required parameter missing"
+msgstr "Gerekli parametre eksik"
+
+#: App/Backend/view/reorder-categories.php:152
+msgid "Reset Order"
+msgstr "Siparişi Sıfırla"
+
+#: App/Backend/includes/localization.php:46
+#: App/Backend/includes/localization.php:180 App/Backend/view/settings.php:997
+msgid "Reset Zoom"
+msgstr "Yakınlaştırmayı Sıfırla"
+
+#: App/Backend/view/migration-section.php:60
+#: App/Backend/view/migration-section.php:71
+msgid "Run Migration"
+msgstr "Göçü Çalıştır"
+
+#: App/Backend/view/topics-add.php:296 App/Backend/view/topics-add.php:298
+#: App/Backend/view/topics-edit.php:265 App/Backend/view/topics-edit.php:267
+msgid "Russian"
+msgstr "Rusça"
+
+#: App/Backend/includes/manage-addons.php:91
+msgid "SaaS Exclusives"
+msgstr "SaaS Özellikleri"
+
+#: dummy-data.php:1093
+msgid "Sample Data"
+msgstr "Örnek Veriler"
+
+#: App/Backend/view/settings.php:493
+msgid "Sample user feedback data"
+msgstr "Örnek kullanıcı geri bildirim verileri"
+
+#: App/Backend/view/dashboard.php:134 App/Backend/view/dashboard.php:299
+msgid "Satisfaction Rate"
+msgstr "Memnuniyet Oranı"
+
+#: App/Backend/includes/localization.php:211
+#: App/Backend/view/manage-categories.php:421
+#: App/Backend/view/modals/menu-link-modal.php:49
+#: App/Backend/view/modals/social-link-modal.php:56
+#: App/Backend/view/settings.php:1024
+msgid "Save"
+msgstr "Kaydetmek"
+
+#: App/Backend/includes/localization.php:60
+#: App/Backend/includes/localization.php:74
+#: App/Backend/includes/localization.php:219
+#: App/Backend/view/modals/custom-page-modal.php:66
+#: App/Backend/view/settings.php:388 App/Backend/view/settings.php:411
+#: App/Backend/view/settings.php:444 App/Backend/view/settings.php:606
+#: App/Backend/view/settings.php:742 App/Backend/view/settings.php:968
+#: App/Backend/view/settings.php:1031
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: App/Backend/includes/localization.php:116
+#: App/Backend/view/reorder-categories.php:155
+msgid "Save Order"
+msgstr "Siparişi Kaydet"
+
+#: App/Backend/view/check-for-updates.php:94 App/Backend/view/settings.php:790
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+#: App/Backend/includes/localization.php:29
+#: App/Backend/includes/localization.php:69 App/Backend/view/settings.php:1035
+msgid "Saved successfully!"
+msgstr "Başarıyla kaydedildi!"
+
+#: App/Backend/view/reorder-categories.php:182
+msgid "Saving changes..."
+msgstr "Değişiklikler kaydediliyor..."
+
+#: App/Backend/includes/localization.php:28
+#: App/Backend/includes/localization.php:56
+#: App/Backend/includes/localization.php:67 App/Backend/view/settings.php:967
+#: App/Backend/view/settings.php:1021
+msgid "Saving..."
+msgstr "Kaydediliyor..."
+
+#: App/Backend/includes/localization.php:108
+#: App/Backend/view/manage-categories.php:290
+#: App/Backend/view/reorder-categories.php:145
+msgid "Search categories..."
+msgstr "Kategorileri ara..."
+
+#: App/Backend/view/index.php:157
+msgid "Search for help topics..."
+msgstr "Yardım konularını arayın..."
+
+#: App/Backend/includes/localization.php:81
+msgid "Search for help..."
+msgstr "Yardım arayın..."
+
+#: App/Backend/view/manage-categories.php:439
+#: App/Backend/view/modals/custom-page-modal.php:85
+#: App/Backend/view/settings.php:906
+msgid "Search icons..."
+msgstr "Arama simgeleri..."
+
+#: App/Backend/view/topics-add.php:244 App/Backend/view/topics-edit.php:213
+msgid "Search languages..."
+msgstr "Dilleri ara..."
+
+#: App/Backend/includes/template-functions.php:105
+msgid "Search Results for"
+msgstr "Arama Sonuçları"
+
+#: App/Backend/includes/localization.php:165 App/Backend/view/settings.php:982
+msgid "Search Suggestions"
+msgstr "Arama Önerileri"
+
+#: App/Backend/includes/localization.php:96
+#: App/Backend/view/manage-topics.php:194 App/Backend/view/topics-add.php:173
+#: App/Backend/view/topics-edit.php:157
+msgid "Search topics..."
+msgstr "Konuları ara..."
+
+#: App/Backend/includes/localization.php:172 App/Backend/view/index.php:174
+#: App/Backend/view/settings.php:989
+msgid "Searching..."
+msgstr "Arama..."
+
+#: App/Backend/view/settings.php:379
+msgid "Secondary"
+msgstr "İkincil"
+
+#: App/Backend/view/settings.php:177
+msgid "Secondary Color"
+msgstr "İkincil Renk"
+
+#: App/Backend/view/topics-edit.php:168
+msgid "Select a language to translate the content."
+msgstr "İçeriği çevirmek için bir dil seçin."
+
+#: App/Backend/view/topics-add.php:199
+msgid "Select a language to translate the extracted content."
+msgstr "Çıkarılan içeriğin çevrileceği dili seçin."
+
+#: App/Backend/includes/localization.php:126 App/Backend/view/topics-add.php:37
+#: App/Backend/view/topics-add.php:340
+#, fuzzy
+#| msgid "Select a Category"
+msgid "Select Category"
+msgstr "Bir Kategori Seçin"
+
+#: App/Backend/view/manage-categories.php:432
+#: App/Backend/view/modals/custom-page-modal.php:78
+#: App/Backend/view/settings.php:899
+msgid "Select Icon"
+msgstr "Simge Seç"
+
+#: App/Backend/view/topics-add.php:239 App/Backend/view/topics-edit.php:208
+msgid "Select Language"
+msgstr "Dil Seçin"
+
+#: App/Backend/view/topics-add.php:204 App/Backend/view/topics-edit.php:173
+msgid "Select language"
+msgstr "Dil seçin"
+
+#: App/Backend/view/manage-categories.php:415
+#: App/Backend/view/modals/social-link-modal.php:42
+msgid "Select or enter Font Awesome icon class"
+msgstr "Font Awesome simge sınıfını seçin veya girin"
+
+#: App/Backend/view/settings.php:778
+msgid "Select which OpenAI model to use"
+msgstr "Hangi OpenAI modelinin kullanılacağını seçin"
+
+#: App/Backend/includes/localization.php:32 App/Backend/view/topics-add.php:42
+msgid "Server error"
+msgstr "Sunucu hatası"
+
+#: App/Backend/view/reorder-categories.php:205
+msgid "Server returned HTML instead of JSON. Please check server logs."
+msgstr ""
+"Sunucu JSON yerine HTML döndürdü. Lütfen sunucu günlüklerini kontrol edin."
+
+#: App/Backend/view/dashboard.php:87 App/Backend/view/manage-categories.php:263
+#: App/Backend/view/manage-topics.php:166
+#: App/Backend/view/recommended-addons.php:84
+#: App/Backend/view/reorder-categories.php:116
+#: App/Backend/view/settings.php:105 App/Backend/view/topics-add.php:148
+#: App/Backend/view/topics-edit.php:132
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: dummy-data.php:988
+msgid "Settings Preview"
+msgstr "Ayarlar Önizlemesi"
+
+#: App/Backend/includes/ajax-handlers.php:37
+msgid "Settings saved successfully"
+msgstr "Ayarlar başarıyla kaydedildi"
+
+#: App/Backend/view/settings.php:716
+msgid "Show related articles at the bottom of each help topic"
+msgstr "Her yardım konusunun altında ilgili makaleleri göster"
+
+#: App/Backend/view/modals/social-link-modal.php:19
+msgid "Social Media Link"
+msgstr "Sosyal Medya Bağlantısı"
+
+#: App/Backend/includes/localization.php:203 App/Backend/view/settings.php:1015
+msgid "Social media link deleted successfully!"
+msgstr "Sosyal medya bağlantısı başarıyla silindi!"
+
+#: App/Backend/includes/localization.php:209 App/Backend/view/settings.php:969
+#: App/Backend/view/settings.php:1022
+msgid "Social media link saved successfully!"
+msgstr "Sosyal medya bağlantısı başarıyla kaydedildi!"
+
+#: App/Backend/view/settings.php:617
+msgid "Social Media Links"
+msgstr "Sosyal Medya Bağlantıları"
+
+#: App/Backend/view/settings.php:491
+msgid "Social media links and menu configuration"
+msgstr "Sosyal medya bağlantıları ve menü yapılandırması"
+
+#: App/Backend/view/topics-add.php:209 App/Backend/view/topics-add.php:300
+#: App/Backend/view/topics-add.php:302 App/Backend/view/topics-edit.php:178
+#: App/Backend/view/topics-edit.php:269 App/Backend/view/topics-edit.php:271
+msgid "Spanish"
+msgstr "İspanyol"
+
+#: App/Backend/includes/template-functions.php:498
+msgid "Still need help?"
+msgstr "Hala yardıma mı ihtiyacınız var?"
+
+#: App/Backend/view/settings.php:706
+msgid "Still Need Help? Section"
+msgstr "Hala Yardıma mı İhtiyacınız Var? Bölüm"
+
+#: App/Backend/view/modals/custom-page-modal.php:51
+msgid "Subtitle"
+msgstr "Altyazı"
+
+#: App/Backend/view/index.php:168
+msgid "Suggestions"
+msgstr "Öneriler"
+
+#: App/Backend/includes/template-functions.php:208
+msgid "Suggestions:"
+msgstr "Öneriler:"
+
+#: App/Backend/view/settings.php:576
+msgid "Support Link"
+msgstr "Destek Bağlantısı"
+
+#: App/Backend/Controller.php:73 App/Backend/includes/localization.php:61
+#: App/Backend/includes/localization.php:217 App/Backend/view/settings.php:965
+#: App/Backend/view/settings.php:1027
+msgid "Support link saved successfully!"
+msgstr "Destek bağlantısı başarıyla kaydedildi!"
+
+#: App/Backend/view/settings.php:594
+msgid "Support Text"
+msgstr "Destek Metni"
+
+#: App/Backend/view/settings.php:581
+msgid "Support URL"
+msgstr "Destek URL'si"
+
+#: App/Backend/view/topics-add.php:203 App/Backend/view/topics-edit.php:172
+msgid "Target Language:"
+msgstr "Hedef Dil:"
+
+#: App/Backend/view/dashboard.php:281
+msgid "Target: 100 views per topic"
+msgstr "Hedef: Konu başına 100 görüntüleme"
+
+#: App/Backend/view/dashboard.php:303
+#, no-php-format
+msgid "Target: 100% satisfaction"
+msgstr "Hedef: %100 memnuniyet"
+
+#: App/Backend/view/dashboard.php:271
+msgid "Target: 300 topics"
+msgstr "Hedef: 300 konu"
+
+#: App/Backend/view/dashboard.php:293
+msgid "Target: 5 feedbacks per topic"
+msgstr "Hedef: Konu başına 5 geri bildirim"
+
+#: App/Backend/view/settings.php:602
+msgid "Text to display on the support button"
+msgstr "Destek düğmesinde görüntülenecek metin"
+
+#: App/Backend/includes/feedback-handler.php:220
+#: App/Backend/includes/template-functions.php:406
+msgid "Thank you for your feedback!"
+msgstr "Geri bildiriminiz için teşekkür ederiz!"
+
+#: App/Backend/view/modals/menu-link-modal.php:43
+msgid "The display order in the menu (lower numbers appear first)"
+msgstr "Menüdeki görüntüleme sırası (önce düşük sayılar görünür)"
+
+#: App/Backend/view/modals/menu-link-modal.php:37
+msgid "The link destination"
+msgstr "Bağlantı hedefi"
+
+#: App/Backend/view/modals/menu-link-modal.php:31
+msgid "The text that will be displayed in the menu"
+msgstr "Menüde görüntülenecek metin"
+
+#: App/Backend/includes/template-functions.php:550
+msgid "There are no topics in this category yet."
+msgstr "Bu kategoride henüz konu bulunmamaktadır."
+
+#: App/Backend/view/settings.php:407
+msgid "These CSS rules will be applied to the Help Center pages."
+msgstr "Bu CSS kuralları Yardım Merkezi sayfalarına uygulanacaktır."
+
+#: App/Backend/view/manage-topics.php:515
+msgid "This action cannot be undone!"
+msgstr "Bu işlem geri alınamaz!"
+
+#: App/Backend/view/check-for-updates.php:17
+msgid "This feature will be available in the next update. Stay tuned!"
+msgstr "Bu özellik bir sonraki güncellemede mevcut olacak. Takipte kalın!"
+
+#: App/Backend/view/settings.php:590
+msgid "This link will be used for the \"Contact Support\" button"
+msgstr "Bu bağlantı \"Destek ile İletişime Geçin\" butonu için kullanılacaktır"
+
+#: App/Backend/view/settings.php:440
+msgid "This text will appear in the footer. Example: © 2025"
+msgstr "Bu metin alt bilgide görünecektir. Örnek: © 2025"
+
+#: App/Backend/view/settings.php:474
+msgid "This will remove all existing help center content"
+msgstr "Bu, mevcut tüm yardım merkezi içeriğini kaldıracaktır"
+
+#: App/Backend/view/manage-topics.php:216
+#: App/Backend/view/modals/custom-page-modal.php:41
+msgid "Title"
+msgstr "Başlık"
+
+#: App/Backend/Controller.php:325
+msgid "Title is required"
+msgstr "Başlık gerekli"
+
+#: App/Backend/view/dashboard.php:219
+msgid "Top Rated Topics"
+msgstr "En Çok Oy Alan Konular"
+
+#: App/Backend/view/manage-topics.php:518
+msgid "Topic Added Successfully!"
+msgstr "Konu Başarıyla Eklendi!"
+
+#: App/Backend/includes/localization.php:95
+msgid "Topic deleted successfully"
+msgstr "Konu başarıyla silindi"
+
+#: App/Backend/view/settings.php:362
+msgid "Topic Item"
+msgstr "Konu Öğesi"
+
+#: App/Backend/includes/feedback-handler.php:175
+msgid "Topic not found"
+msgstr "Konu bulunamadı"
+
+#: App/Backend/view/manage-topics.php:516
+msgid "Topic Successfully Deleted!"
+msgstr "Konu Başarıyla Silindi!"
+
+#: App/Backend/view/topics-add.php:323 App/Backend/view/topics-edit.php:290
+msgid "Topic Title"
+msgstr "Konu Başlığı"
+
+#: App/Backend/view/dashboard.php:142
+msgid "Topic Trends"
+msgstr "Konu Eğilimleri"
+
+#: App/Backend/view/manage-topics.php:520
+msgid "Topic Updated Successfully!"
+msgstr "Konu Başarıyla Güncellendi!"
+
+#: App/Backend/includes/ajax-handlers.php:253
+#, php-format
+msgid "Topic with ID %d does not exist"
+msgstr "%d ID'li konu mevcut değil"
+
+#: App/Backend/includes/template-functions.php:569
+#: App/Backend/includes/template-functions.php:617
+#: App/Backend/view/settings.php:354
+msgid "Topics"
+msgstr "Konular"
+
+#: App/Backend/view/dashboard.php:258
+msgid "Topics with Feedback"
+msgstr "Geribildirimli Konular"
+
+#: App/Backend/view/dashboard.php:254
+msgid "Total Dislikes"
+msgstr "Toplam Beğenilmeyenler"
+
+#: App/Backend/view/dashboard.php:250
+msgid "Total Likes"
+msgstr "Toplam Beğeniler"
+
+#: App/Backend/view/dashboard.php:113
+msgid "Total Topics"
+msgstr "Toplam Konular"
+
+#: App/Backend/view/topics-add.php:231 App/Backend/view/topics-edit.php:200
+msgid "Translate"
+msgstr "Çevir"
+
+#: App/Backend/view/topics-add.php:198 App/Backend/view/topics-edit.php:167
+msgid "Translate Content"
+msgstr "İçeriği Çevir"
+
+#: App/Backend/includes/localization.php:134 App/Backend/view/topics-add.php:47
+msgid "Translating content..."
+msgstr "İçerik çevriliyor..."
+
+#: App/Backend/includes/template-functions.php:212
+msgid "Try different keywords"
+msgstr "Farklı anahtar kelimeleri deneyin"
+
+#: App/Backend/includes/template-functions.php:211
+msgid "Try more general keywords"
+msgstr "Daha genel anahtar sözcükleri deneyin"
+
+#: App/Backend/includes/localization.php:171 App/Backend/view/settings.php:988
+msgid "Try using more general keywords"
+msgstr "Daha genel anahtar sözcükler kullanmayı deneyin"
+
+#: App/Backend/view/topics-add.php:304 App/Backend/view/topics-add.php:306
+#: App/Backend/view/topics-edit.php:273 App/Backend/view/topics-edit.php:275
+msgid "Turkish"
+msgstr "Türkçe"
+
+#: App/Backend/view/settings.php:785
+msgid "Turn on/off the ChatGPT integration features"
+msgstr "ChatGPT entegrasyon özelliklerini açın/kapatın"
+
+#: App/Backend/includes/localization.php:34 App/Backend/view/topics-add.php:40
+msgid "Unknown error"
+msgstr "Bilinmeyen hata"
+
+#: App/Backend/view/settings.php:139
+msgid "Update"
+msgstr "Güncelleme"
+
+#: App/Backend/view/check-for-updates.php:9
+#: App/Backend/view/migration-section.php:8
+msgid "Update Center"
+msgstr "Güncelleme Merkezi"
+
+#: App/Backend/view/check-for-updates.php:49
+msgid "Update is available!"
+msgstr "Güncelleme mevcut!"
+
+#: App/Backend/view/check-for-updates.php:84
+msgid "Update Settings"
+msgstr "Ayarları Güncelle"
+
+#: App/Backend/view/topics-edit.php:366
+msgid "Update Topic"
+msgstr "Konuyu Güncelle"
+
+#: App/Backend/view/migration-section.php:61
+msgid "Update your database structure to the latest version."
+msgstr "Veritabanı yapınızı en son sürüme güncelleyin."
+
+#: App/Backend/includes/localization.php:128 App/Backend/view/topics-add.php:39
+msgid "Upload failed"
+msgstr "Yükleme başarısız oldu"
+
+#: App/Backend/view/topics-add.php:358 App/Backend/view/topics-edit.php:325
+msgid "Upload Files"
+msgstr "Dosyaları Yükle"
+
+#: App/Backend/includes/localization.php:127 App/Backend/view/topics-add.php:38
+msgid "Uploading..."
+msgstr "Yükleniyor..."
+
+#: App/Backend/view/modals/menu-link-modal.php:35
+#: App/Backend/view/modals/social-link-modal.php:45
+#: App/Backend/view/settings.php:543 App/Backend/view/settings.php:633
+msgid "URL"
+msgstr "URL"
+
+#: App/Backend/includes/localization.php:206 App/Backend/view/settings.php:1018
+msgid "URL is required"
+msgstr "URL gerekli"
+
+#: App/Backend/view/settings.php:173
+msgid "Used for buttons, links, headers, and primary elements"
+msgstr "Düğmeler, bağlantılar, başlıklar ve birincil öğeler için kullanılır"
+
+#: App/Backend/view/settings.php:186
+msgid "Used for secondary text, borders, and accents"
+msgstr "İkincil metin, kenarlıklar ve vurgular için kullanılır"
+
+#: App/Backend/includes/localization.php:167 App/Backend/view/settings.php:984
+msgid "View all results"
+msgstr "Tüm sonuçları görüntüle"
+
+#: App/Backend/includes/localization.php:84
+msgid "View All Topics"
+msgstr "Tüm Konuları Görüntüle"
+
+#: App/Backend/view/check-for-updates.php:74
+#: App/Backend/view/migration-section.php:87
+msgid "View Backups"
+msgstr "Yedeklemeleri Görüntüle"
+
+#: App/Backend/includes/localization.php:129 App/Backend/view/topics-add.php:43
+msgid "View File"
+msgstr "Dosyayı Görüntüle"
+
+#: App/Backend/view/dashboard.php:127
+msgid "Views"
+msgstr "Görünümler"
+
+#: App/Backend/includes/template-functions.php:145
+#: App/Backend/includes/template-functions.php:477
+msgid "views"
+msgstr "görünümler"
+
+#: App/Backend/view/settings.php:467
+msgid ""
+"Warning: If you choose to clear existing data, all current help center "
+"content will be permanently deleted. Make sure to back up your data first if "
+"needed."
+msgstr ""
+"Uyarı: Mevcut verileri temizlemeyi seçerseniz, tüm geçerli yardım merkezi "
+"içeriği kalıcı olarak silinecektir. Gerekirse önce verilerinizi "
+"yedeklediğinizden emin olun."
+
+#: App/Backend/includes/template-functions.php:410
+msgid "Was this article helpful?"
+msgstr "Bu makale yardımcı oldu mu?"
+
+#: App/Backend/includes/localization.php:169
+msgid "We couldn't find any results for"
+msgstr "Herhangi bir sonuç bulamadık"
+
+#: App/Backend/includes/template-functions.php:206
+#, fuzzy
+#| msgid "We couldn’t find any results for your search."
+msgid "We couldn't find any results for your search."
+msgstr "Aradığınız kriterlere uygun bir sonuç bulamadık."
+
+#: App/Backend/view/settings.php:986
+msgid "We couldn\\'t find any results for"
+msgstr "Herhangi bir sonuç bulamadık"
+
+#: App/Backend/view/settings.php:485
+msgid "What will be imported?"
+msgstr "Ne ithal edilecek?"
+
+#: App/Backend/includes/manage-addons.php:88
+msgid "Workflow actions"
+msgstr "İş akışı eylemleri"
+
+#: App/Backend/includes/template-functions.php:415
+msgid "Yes"
+msgstr "Evet"
+
+#: App/Backend/view/manage-topics.php:514
+msgid "Yes, delete it!"
+msgstr "Evet, silin!"
+
+#: App/Backend/view/reorder-categories.php:200
+msgid "Yes, proceed"
+msgstr "Evet, devam et"
+
+#: App/Backend/includes/localization.php:187 App/Backend/view/settings.php:1001
+msgid "You are about to delete"
+msgstr "Silmek üzeresiniz"
+
+#: App/Backend/includes/ajax-handlers.php:13
+#: App/Backend/includes/ajax-handlers.php:224
+#: App/Backend/includes/ajax-handlers.php:306
+msgid "You do not have permission to perform this action"
+msgstr "Bu eylemi gerçekleştirme yetkiniz yok"
+
+#: App/Backend/Controller.php:842 App/Backend/Controller.php:873
+#: App/Backend/includes/feature-toggles.php:22
+msgid "You do not have permission to perform this action."
+msgstr "Bu eylemi gerçekleştirme yetkiniz yok."
+
+#: App/Backend/view/check-for-updates.php:50
+msgid "You have a new version available. Please update to the latest version."
+msgstr "Yeni bir sürümünüz mevcut. Lütfen en son sürüme güncelleyin."
+
+#: App/Backend/includes/feedback-handler.php:164
+msgid "You have already provided feedback for this topic"
+msgstr "Bu konu için zaten geri bildirim sağladınız"
+
+#: App/Backend/view/reorder-categories.php:211
+msgid "You have unsaved changes. Are you sure you want to leave?"
+msgstr ""
+"Kaydedilmemiş değişiklikleriniz var. Ayrılmak istediğinizden emin misiniz?"
+
+#: App/Backend/view/settings.php:768
+msgid "Your OpenAI API key for ChatGPT integration"
+msgstr "ChatGPT entegrasyonu için OpenAI API anahtarınız"
+
+#: App/Backend/includes/localization.php:44
+#: App/Backend/includes/localization.php:178 App/Backend/view/settings.php:995
+msgid "Zoom In"
+msgstr "Yakınlaştır"
+
+#: App/Backend/includes/localization.php:45
+#: App/Backend/includes/localization.php:179 App/Backend/view/settings.php:996
+msgid "Zoom Out"
+msgstr "Uzaklaştır"

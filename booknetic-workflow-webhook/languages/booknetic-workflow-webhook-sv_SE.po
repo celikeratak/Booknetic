@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Booknetic SV\n"
+"POT-Creation-Date: 2025-03-05 17:37+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: bkntc__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: app/Frontend/assets/js/datepicker.min.js\n"
+"X-Poedit-SearchPathExcluded-1: app/Frontend/assets/js/intlTelInput.min.js\n"
+"X-Poedit-SearchPathExcluded-2: app/Frontend/assets/js/jquery.nicescroll.min."
+"js\n"
+"X-Poedit-SearchPathExcluded-3: app/Frontend/assets/js/utilsIntlTelInput.js\n"
+
+#: App/Backend/Ajax.php:81
+msgid "Webhook requires request method and url!"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:27
+msgid "Edit action"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:37
+msgid "URL"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:55
+msgid "Headers"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:77
+msgid "Add new header"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:84
+msgid "Content type"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:87
+msgid "none"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:88
+#: App/Backend/view/workflow_action_edit.php:95
+msgid "Form data"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:89
+#: App/Backend/view/workflow_action_edit.php:123
+msgid "JSON"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:117
+msgid "Add new field"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:137
+msgid "Enabled"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:140
+msgid "CANCEL"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:141
+msgid "SAVE & TEST"
+msgstr ""
+
+#: App/Backend/view/workflow_action_edit.php:142
+msgid "SAVE"
+msgstr ""
+
+#: App/WebhookWorkflowAddon.php:23
+msgid "Webhook workflow action"
+msgstr ""
+
+#: App/WebhookWorkflowAddon.php:28
+msgid "Allowed maximum webhook trigger"
+msgstr ""
+
+#: App/WebhookWorkflowAddon.php:48
+msgid "Webhook"
+msgstr ""
+
+#: App/WebhookWorkflowDriver.php:19
+msgid "Send HTTP(S) request"
+msgstr ""

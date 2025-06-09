@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: test\n"
+"POT-Creation-Date: 2025-03-05 17:57+0400\n"
+"PO-Revision-Date: 2025-03-05 17:57+0400\n"
+"Last-Translator: Baudouin de Chabot-Tramecourt\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../app\n"
+"X-Poedit-KeywordsList: bkntc__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: Frontend/assets/js/datepicker.min.js\n"
+"X-Poedit-SearchPathExcluded-1: Frontend/assets/js/intlTelInput.min.js\n"
+"X-Poedit-SearchPathExcluded-2: Frontend/assets/js/jquery.nicescroll.min.js\n"
+"X-Poedit-SearchPathExcluded-3: Frontend/assets/js/utilsIntlTelInput.js\n"
+
+#: Backend/view/modal/customer_panel_settings.php:15
+#: Backend/view/modal/customer_panel_settings_saas.php:15
+msgid "SAVE CHANGES"
+msgstr "ENREGISTRER LES MODIFICATIONS"
+
+#: Backend/view/modal/customer_panel_settings.php:20
+msgid "Front-end panels"
+msgstr "Panneaux Frontend"
+
+#: Backend/view/modal/customer_panel_settings.php:21
+#: Backend/view/modal/customer_panel_settings_saas.php:20
+#: CustomerPanelAddon.php:68 CustomerPanelAddon.php:84
+msgid "Customer Panel"
+msgstr "Espace client"
+
+#: Backend/view/modal/customer_panel_settings.php:31
+#: Backend/view/modal/customer_panel_settings_saas.php:30
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: Backend/view/modal/customer_panel_settings.php:35
+#: Backend/view/modal/customer_panel_settings_saas.php:34
+msgid "Enabled"
+msgstr "Activé"
+
+#: Backend/view/modal/customer_panel_settings.php:46
+#: Backend/view/modal/customer_panel_settings_saas.php:43
+msgid "Page of Customer Panel"
+msgstr "Page de l’espace client"
+
+#: Backend/view/modal/customer_panel_settings.php:56
+msgid "Time restriction to change appointments"
+msgstr "Restrictions temporelles de modification de RDV"
+
+#: Backend/view/modal/customer_panel_settings.php:96
+msgid "Allow customers to change appointment status"
+msgstr "Permettre aux clients de modifier leur statut de RDV"
+
+#: Backend/view/modal/customer_panel_settings.php:104
+msgid "Customers can change appointment status to"
+msgstr "Les clients peuvent modifier leur statut de RDV en"
+
+#: Backend/view/modal/customer_panel_settings.php:121
+msgid "Allow customers to reschedule their appointments"
+msgstr "Permettre aux clients de reporter leurs rendez-vous"
+
+#: Backend/view/modal/customer_panel_settings.php:130
+msgid "Customers can reschedule with these appointment statuses"
+msgstr "Les clients peuvent reprogrammer leur rendez-vous avec les statuts suivants"
+
+#: Backend/view/modal/customer_panel_settings.php:143
+#: Backend/view/modal/customer_panel_settings_saas.php:54
+msgid "Allow customers to delete their account"
+msgstr "Permettre aux clients de supprimer leur compte"
+
+#: Backend/view/modal/customer_panel_settings.php:154
+msgid "Hide the \"Pay now\" button on the Customer Panel"
+msgstr "Masquer le bouton \"Payer maintenant\" sur le panneau client"
+
+#: CustomerPanelAddon.php:42
+msgid "Customer Panel settings"
+msgstr "Paramètres de l’Espace client"
+
+#: CustomerPanelAddon.php:45
+msgid "Customer Panel URL"
+msgstr "URL de l’espace client"
+
+#: CustomerPanelAddon.php:49
+msgid "Customer Panel Restriction Time"
+msgstr "Restrictions temporelles de l’espace client"
+
+#: CustomerPanelAddon.php:85
+msgid "You can customize customer panel settings from here"
+msgstr "Vous pouvez personnaliser les paramètres de l’espace client ici"
+
+#: CustomerPanelAddon.php:129
+msgid "Redirecting..."
+msgstr "Redirection..."
+
+#: CustomerPanelAddon.php:144
+msgid "January"
+msgstr "Janvier"
+
+#: CustomerPanelAddon.php:145
+msgid "February"
+msgstr "Février"
+
+#: CustomerPanelAddon.php:146
+msgid "March"
+msgstr "Mars"
+
+#: CustomerPanelAddon.php:147
+msgid "April"
+msgstr "Avril"
+
+#: CustomerPanelAddon.php:148
+msgid "May"
+msgstr "Mai"
+
+#: CustomerPanelAddon.php:149
+msgid "June"
+msgstr "Juin"
+
+#: CustomerPanelAddon.php:150
+msgid "July"
+msgstr "Juillet"
+
+#: CustomerPanelAddon.php:151
+msgid "August"
+msgstr "Août"
+
+#: CustomerPanelAddon.php:152
+msgid "September"
+msgstr "Septembre"
+
+#: CustomerPanelAddon.php:153
+msgid "October"
+msgstr "Octobre"
+
+#: CustomerPanelAddon.php:154
+msgid "November"
+msgstr "Novembre"
+
+#: CustomerPanelAddon.php:155
+msgid "December"
+msgstr "Décembre"
+
+#: CustomerPanelAddon.php:158
+msgid "Mon"
+msgstr "Lun"
+
+#: CustomerPanelAddon.php:159
+msgid "Tue"
+msgstr "Mar"
+
+#: CustomerPanelAddon.php:160
+msgid "Wed"
+msgstr "Mer"
+
+#: CustomerPanelAddon.php:161
+msgid "Thu"
+msgstr "Jeu"
+
+#: CustomerPanelAddon.php:162
+msgid "Fri"
+msgstr "Ven"
+
+#: CustomerPanelAddon.php:163
+msgid "Sat"
+msgstr "Sam"
+
+#: CustomerPanelAddon.php:164
+msgid "Sun"
+msgstr "Dim"
+
+#: CustomerPanelAddon.php:167
+msgid "Select..."
+msgstr "Sélectionner..."
+
+#: CustomerPanelAddon.php:168
+msgid "Searching..."
+msgstr "Recherche en cours…"
+
+#: Frontend/Ajax.php:43
+msgid "Please fill all required fields!"
+msgstr "SVP, remplissez tous les champs nécessaires!"
+
+#: Frontend/Ajax.php:53
+msgid "Please enter a valid email address!"
+msgstr "Entrez une adresse mail valide !"
+
+#: Frontend/Ajax.php:60
+msgid "This email address is already used by another customer."
+msgstr "Cette adresse email est déjà utilisée par un autre client."
+
+#: Frontend/Ajax.php:84
+msgid "Profile data was saved successfully"
+msgstr "Les données de profil ont été enregistrées avec succès"
+
+#: Frontend/Ajax.php:100
+msgid "Password does not match!"
+msgstr "Le mot de passe ne correspond pas!"
+
+#: Frontend/Ajax.php:108
+msgid "Current password is wrong!"
+msgstr "Le mot de passe actuel est faux!"
+
+#: Frontend/Ajax.php:115
+msgid "Password was changed successfully"
+msgstr "Le mot de passe a été changé avec succès"
+
+#: Frontend/Ajax.php:155
+msgid "Time format is wrong."
+msgstr "Le format de l'heure est faux."
+
+#: Frontend/Ajax.php:160
+msgid "You can not change the date and time to past."
+msgstr "Vous ne pouvez pas modifier la date et l’heure dans le passé."
+
+#: Frontend/Ajax.php:183
+#, php-format
+msgid "Minimum time requirement prior to change the appointment date and time is %s"
+msgstr "Délai minimum requis avant la modification de réservation est %s"
+
+#: Frontend/Ajax.php:190
+#, php-format
+msgid "You cannot change the appointment less than %s in advance"
+msgstr "Vous ne pouvez pas modifier le rendez-vous moins de %s à l'avance"
+
+#: Frontend/Ajax.php:195
+msgid "You have not changed the date and time."
+msgstr "Vous n’avez pas modifié la date et l’heure."
+
+#: Frontend/Ajax.php:203
+msgid "Appointment was rescheduled successfully!"
+msgstr "Rendez-vous reporté avec succès!"
+
+#: Frontend/Ajax.php:328
+msgid "Time limit to change appointment status expired"
+msgstr "Expiration du délai pour modifier le statut du rendez-vous"
+
+#: Frontend/Ajax.php:337
+msgid "Invalid appointment status"
+msgstr "Statut de rendez-vous invalide"
+
+#: Frontend/Ajax.php:341
+msgid "Change current status before save"
+msgstr "Changer le statut actuel avant de sauvegarder"
+
+#: Frontend/Ajax.php:347
+#, php-format
+msgid "Appointment status changed to %s"
+msgstr "Statut de réservation modifié à %s"
+
+#: Frontend/Ajax.php:391
+msgid "Invalid payment method"
+msgstr "Moyen de paiement non valide"
+
+#: Frontend/view/appointments_list.php:47
+msgid "Reschedule"
+msgstr "Replanifier"
+
+#: Frontend/view/appointments_list.php:50
+msgid "Change Status"
+msgstr "Changer le statut"
+
+#: Frontend/view/appointments_list.php:53
+msgid "Pay Now"
+msgstr "Payer maintenant"
+
+#: Frontend/view/customer_panel.php:35
+msgid "LOGOUT"
+msgstr "DÉCONNEXION"
+
+#: Frontend/view/customer_panel.php:47
+msgid "Appointments"
+msgstr "Rendez-vous"
+
+#: Frontend/view/customer_panel.php:53
+msgid "Profile"
+msgstr "Profil"
+
+#: Frontend/view/customer_panel.php:59
+msgid "Change password"
+msgstr "Changer le mot de passe"
+
+#: Frontend/view/customer_panel.php:69
+msgid "ID"
+msgstr "ID"
+
+#: Frontend/view/customer_panel.php:71
+msgid "Company"
+msgstr "Entreprise"
+
+#: Frontend/view/customer_panel.php:73
+msgid "SERVICE"
+msgstr "SERVICE"
+
+#: Frontend/view/customer_panel.php:74
+msgid "STAFF"
+msgstr "PERSONNEL"
+
+#: Frontend/view/customer_panel.php:75
+msgid "APPOINTMENT DATE"
+msgstr "DATE DE RENDEZ-VOUS"
+
+#: Frontend/view/customer_panel.php:76
+msgid "PRICE"
+msgstr "PRIX"
+
+#: Frontend/view/customer_panel.php:77
+msgid "DURATION"
+msgstr "DUREE"
+
+#: Frontend/view/customer_panel.php:78
+msgid "STATUS"
+msgstr "STATUT"
+
+#: Frontend/view/customer_panel.php:92
+msgid "Name"
+msgstr "Nom"
+
+#: Frontend/view/customer_panel.php:98
+msgid "Surname"
+msgstr "Prénom"
+
+#: Frontend/view/customer_panel.php:104
+msgid "Email"
+msgstr "Email"
+
+#: Frontend/view/customer_panel.php:110
+msgid "Phone"
+msgstr "Numéro de téléphone"
+
+#: Frontend/view/customer_panel.php:116
+msgid "Date of birth"
+msgstr "Date de naissance"
+
+#: Frontend/view/customer_panel.php:121
+msgid "Gender"
+msgstr "Sexe"
+
+#: Frontend/view/customer_panel.php:123
+msgid "Male"
+msgstr "Masculin"
+
+#: Frontend/view/customer_panel.php:124
+msgid "Female"
+msgstr "Féminin"
+
+#: Frontend/view/customer_panel.php:132 Frontend/view/customer_panel.php:248
+msgid "SAVE"
+msgstr "ENREGISTRER"
+
+#: Frontend/view/customer_panel.php:136
+msgid "DELETE MY PROFILE"
+msgstr "SUPPRIMER MON PROFIL"
+
+#: Frontend/view/customer_panel.php:147
+msgid "Current password"
+msgstr "Mot de passe actuel"
+
+#: Frontend/view/customer_panel.php:153
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+#: Frontend/view/customer_panel.php:160
+msgid "Repeat new password"
+msgstr "Répéter le nouveau mot de passe"
+
+#: Frontend/view/customer_panel.php:170
+msgid "CHANGE PASSWORD"
+msgstr "CHANGER DE MOT DE PASSE"
+
+#: Frontend/view/customer_panel.php:185
+msgid "Are you sure you want to delete your profile?"
+msgstr "Etes-vous sûr de vouloir supprimer votre profil?"
+
+#: Frontend/view/customer_panel.php:188 Frontend/view/customer_panel.php:203
+msgid "NO"
+msgstr "NON"
+
+#: Frontend/view/customer_panel.php:189 Frontend/view/customer_panel.php:204
+msgid "YES"
+msgstr "OUI"
+
+#: Frontend/view/customer_panel.php:200
+msgid "Are you sure you want to change appointment status to?"
+msgstr "Etes-vous sûr de vouloir modifier le statut du rendez-vous?"
+
+#: Frontend/view/customer_panel.php:217
+msgid "Date"
+msgstr "Date"
+
+#: Frontend/view/customer_panel.php:221
+msgid "Time"
+msgstr "Heure"
+
+#: Frontend/view/customer_panel.php:227 Frontend/view/customer_panel.php:247
+#: Frontend/view/customer_panel.php:265
+msgid "CANCEL"
+msgstr "ANNULER"
+
+#: Frontend/view/customer_panel.php:228
+msgid "RESCHEDULE"
+msgstr "REPORTER"
+
+#: Frontend/view/customer_panel.php:241
+msgid "Select Status"
+msgstr "Sélectionner le statut"
+
+#: Frontend/view/customer_panel.php:259
+msgid "Select Payment Gateway"
+msgstr "Sélectionnez Passerelle de paiement"
+
+#: Frontend/view/customer_panel.php:266
+msgid "Pay"
+msgstr "Payer"
+
+#: Integrations/Divi/includes/modules/CustomerPanel/CustomerPanel.php:16
+msgid "Booknetic Customer Panel"
+msgstr "Espace client Booknetic"
+
+#: Listener.php:31
+msgid "Customer panel URL"
+msgstr "URL de l’espace client"
+
+#~ msgid "Customer signs up"
+#~ msgstr "Le client s'inscrit"
+
+#~ msgid "Customer forgot password"
+#~ msgstr "Le client oublie son mot de passe"
+
+#~ msgid "Customer reset password"
+#~ msgstr "Le client réinitialise son mot de passe"

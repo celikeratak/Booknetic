@@ -1,0 +1,196 @@
+.category-card i, .livechat-card i {
+    color: var(--primary-color);
+  }
+
+  .category-card h2, .livechat-card h2 {
+    color: var(--primary-color);
+  }
+  .topic-count {
+    color: var(--secondary-color);
+  }
+  .category-card:hover {
+    border-color: var(--primary-color-hover);
+  }
+  .hero {
+    background-color: var(--primary-color);
+  }
+  .search-box button {
+    background-color: var(--secondary-color);
+  }
+  .search-box button:hover {
+    background-color: var(--primary-color-hover);
+  }
+  .menu-links-header {
+    background-color: var(--secondary-color-hover);
+  }
+  .view-switch:hover, .view-switch.active{
+    background-color: var(--primary-color-hover) !important;
+    border-color: var(--primary-color-hover) !important;
+  }
+  .breadcrumb-item {
+    color: var(--primary-color);
+  }
+  .home-icon {
+    color: var(--primary-color);
+  }
+  .category-icon{
+    color: var(--primary-color);
+  }
+  .topic-icon{
+    color: var(--primary-color);
+  }
+  
+  
+  .breadcrumb-item:hover {
+    color: var(--primary-color-hover);
+  }
+  .search-box input:focus {
+    box-shadow: inset 0 0 0 2px var(--primary-color);
+  }
+  .topic-views-count i {
+    color: var(--primary-color);
+  }
+  .no-results-title {
+    color: var(--primary-color);
+  }
+  .back-to-help {
+    background-color: var(--primary-color);
+  }
+  .search-results-header h4 i {
+    color: var(--primary-color);
+  }
+  .close-suggestions:hover {
+    color: var(--primary-color-hover);
+  }
+  .category-group h5 {
+    color: var(--primary-color);
+  }
+  .search-result-item:before {
+    background-color: var(--primary-color);
+  }
+  .search-result-item .result-title {
+    color: var(--primary-color);
+  }
+  .search-result-item .result-title i {
+    color: var(--primary-color);
+  }
+  .search-result-item .result-title strong {
+    color: var(--primary-color);
+  }
+  .category-group h5 i {
+    color: var(--primary-color);
+  }
+  .search-result-item .result-excerpt strong {
+    color: var(--primary-color);
+  }
+  .view-all-results {
+    color: var(--primary-color);
+  }
+  .loading i {
+    color: var(--primary-color);
+  }
+  .no-results-message .search-term {
+    color: var(--primary-color);
+  }
+  .suggestion-icon {
+    color: var(--primary-color);
+  }
+  .search-box input:focus {
+    border-color: var(--primary-color);
+  }
+  .footer-menu-link {
+    color: var(--primary-color);
+  }
+  .livechat-icon i {
+    color: var(--primary-color);
+  }
+  .topic-item:hover {
+    border-color: var(--primary-color-hover);
+  }
+  .topic-item h2 {
+    color: var(--primary-color);
+  }
+  .breadcrumb-item.current {
+    background-color: var(--primary-color-back);
+  }
+  .category-card:hover {
+    background-color: var(--primary-color-back);
+  }
+  .topic-count {
+    background-color: var(--secondary-color) !important;
+  }
+  .breadcrumb-item:hover {
+    background-color: var(--primary-color-back);
+  }
+  .topic-views-count {
+    background-color: var(--primary-color-back);
+  }
+  .footer-menu-link:hover {
+    background-color: var(--primary-color-back);
+  }
+  .footer-center a:hover {
+    color: var(--primary-color-hover);
+  }
+  .social-link:hover {
+    background-color: var(--primary-color);
+  }
+  .topic-item:hover {
+    background-color: var(--primary-color-back);
+  }
+  .livechat-card-full {
+    background-color: var(--primary-color-back);
+  }
+  
+  /* No Categories Message Styles */
+  .no-categories-message {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    margin: 20px 0;
+    width: 100%;
+  }
+  
+  .no-categories-message i {
+    font-size: 48px;
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    display: block;
+  }
+  
+  .no-categories-message h3 {
+    font-size: 24px;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+  }
+  
+  .no-categories-message p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .add-category-button {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: white !important;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+  }
+  
+  .add-category-button:hover {
+    background-color: var(--primary-color-hover);
+    text-decoration: none;
+  }
+  
+  .add-category-button i {
+    font-size: 14px;
+    margin-right: 5px;
+    color: white;
+    display: inline;
+    margin-bottom: 0;
+  }

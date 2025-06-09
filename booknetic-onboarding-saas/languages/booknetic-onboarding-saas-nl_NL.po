@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Booknetic SaaS Tenant Onboarding & Help Center Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-07 13:45+0000\n"
+"PO-Revision-Date: 2025-02-09 15:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1\n"
+"X-Domain: booknetic-onboarding-saas"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "Add New Category"
+msgstr "Nieuwe categorie toevoegen"
+
+msgid "Add New Topic"
+msgstr "Nieuw onderwerp toevoegen"
+
+msgid "Add Topic"
+msgstr "Onderwerp toevoegen"
+
+msgid "Add your HTML code here"
+msgstr "Voeg hier uw HTML-code toe"
+
+msgid "Are you sure?"
+msgstr "Weet je het zeker?"
+
+msgid "Back to Control Panel"
+msgstr "Terug naar Configuratiescherm"
+
+msgid "Back to Help Desk"
+msgstr "Terug naar Helpdesk"
+
+#. Name of the plugin
+msgid "Booknetic SaaS Tenant Onboarding & Help Center Add-on"
+msgstr "Booknetic SaaS Tenant Onboarding & Help Center-uitbreiding"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Content"
+msgstr "Inhoud"
+
+msgid "Control Panel"
+msgstr "Bedieningspaneel"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Edit"
+msgstr "Bewerking"
+
+msgid "Edit Topic"
+msgstr "Onderwerp bewerken"
+
+msgid "Edit your content here..."
+msgstr "Bewerk hier uw inhoud..."
+
+#. Description of the plugin
+msgid ""
+"Enhance your tenant experience with the Booknetic SaaS Tenant Onboarding & "
+"Help Center Add-on."
+msgstr ""
+"Verbeter de ervaring van uw huurder met de Booknetic SaaS Tenant Onboarding "
+"& Help Center Add-on."
+
+msgid "Enter your content here..."
+msgstr "Voer hier uw inhoud in..."
+
+msgid "Help Center"
+msgstr "Helpcentrum"
+
+msgid "Help Desk"
+msgstr "Helpdesk"
+
+msgid "How can we help?"
+msgstr "Hoe kunnen wij helpen?"
+
+#. Author URI of the plugin
+msgid "https://www.booknetic.com"
+msgstr "https://www.booknetic.com"
+
+msgid "ID"
+msgstr "identiteitsbewijs"
+
+msgid "Live Chat"
+msgstr "Livechat"
+
+msgid "Manage Categories"
+msgstr "Categorieën beheren"
+
+msgid "Manage Live Chat"
+msgstr "Livechat beheren"
+
+msgid "Manage LiveChat"
+msgstr "LiveChat beheren"
+
+msgid "Manage Topics"
+msgstr "Onderwerpen beheren"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "No categories found"
+msgstr "Geen categorieën gevonden"
+
+msgid "No categories found."
+msgstr "Geen categorieën gevonden."
+
+msgid "No topics found"
+msgstr "Geen onderwerpen gevonden"
+
+msgid "No topics found matching your search."
+msgstr "Er zijn geen onderwerpen gevonden die aan uw zoekopdracht voldoen."
+
+msgid "No topics found."
+msgstr "Geen onderwerpen gevonden."
+
+msgid "Prev"
+msgstr "Vorige"
+
+msgid "Re-order Categories"
+msgstr "Categorieën opnieuw ordenen"
+
+msgid "Save Category"
+msgstr "Categorie opslaan"
+
+msgid "Save Live Chat"
+msgstr "Livechat opslaan"
+
+msgid "SEARCH"
+msgstr "ZOEKOPDRACHT"
+
+msgid "Search"
+msgstr "Zoekopdracht"
+
+msgid "Search Beacon, Docs, Reports, etc"
+msgstr "Zoekbaken, documenten, rapporten, enz."
+
+msgid "Search Results for"
+msgstr "Zoekresultaten voor"
+
+msgid "Search topics..."
+msgstr "Onderwerpen zoeken..."
+
+msgid "Select a Category"
+msgstr "Selecteer een categorie"
+
+#. Author of the plugin
+msgid "Tahir"
+msgstr "Tahir"
+
+msgid "This action cannot be undone!"
+msgstr "Deze actie kan niet ongedaan worden gemaakt!"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Topic Added Successfully!"
+msgstr "Onderwerp succesvol toegevoegd!"
+
+msgid "Topic Successfully Deleted!"
+msgstr "Onderwerp succesvol verwijderd!"
+
+msgid "Topic Updated Successfully!"
+msgstr "Onderwerp succesvol bijgewerkt!"
+
+msgid "Update Topic"
+msgstr "Onderwerp bijwerken"
+
+msgid "We couldn’t find any results for your search."
+msgstr "Er zijn geen resultaten gevonden voor uw zoekopdracht."
+
+msgid "Yes, delete it!"
+msgstr "Ja, verwijder het!"

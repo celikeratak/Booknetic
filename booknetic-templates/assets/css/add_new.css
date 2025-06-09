@@ -1,0 +1,38 @@
+.fs-modal .template_picture
+{
+    position: relative;
+    width: 108px;
+    height: 108px;
+    cursor: pointer;
+}
+
+.fs-modal .template_picture img
+{
+    width: 100%;
+    height: auto;
+}
+
+.fs-modal .template_picture > .img-circle1
+{
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fs-modal #input_image
+{
+    display: none;
+}
+
+.fs-modal .template_picture_div
+{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}

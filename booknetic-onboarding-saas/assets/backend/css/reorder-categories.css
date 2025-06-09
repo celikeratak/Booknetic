@@ -1,0 +1,269 @@
+.reorder-tools {
+    display: flex;
+    justify-content: flex-end; /* Align to the right */
+    margin: 20px 0; /* Add margin top and bottom */
+    flex-wrap: wrap;
+    gap: 6px; /* Increased spacing between buttons */
+    margin-top: 40px;
+}
+
+.reorder-tools button {
+    padding: 9px 17px; /* Slightly larger padding */
+    border: none;
+    border-radius: 12px !important;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.reorder-tools button.primary {
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: 600;
+    position: relative;
+    overflow: hidden;
+}
+
+.reorder-tools button.primary:hover {
+    background-color: var(--primary-color-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.reorder-tools button.primary:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: rgba(255,255,255,0.3);
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+.reorder-tools button.primary:hover:after {
+    transform: scaleX(1);
+}
+
+.reorder-tools button.secondary {
+    background-color: #f0f0f0;
+    color: #333;
+    border: 1px solid #e0e0e0;
+}
+
+.reorder-tools button.secondary:hover {
+    background-color: #e8e8e8;
+    color: #000;
+    border-color: #d0d0d0;
+}
+
+.reorder-tools button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .reorder-tools {
+        justify-content: center;
+        margin: 15px 0;
+    }
+    
+    .reorder-tools button {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+}
+
+.categories-container-wrapper {
+    position: relative;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #fafafa;
+    padding: 15px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.categories-container-wrapper::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, var(--primary-color-back), transparent 5px);
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.category-item {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    margin: 10px 0;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    cursor: grab; /* Changed to grab to indicate the entire item is draggable */
+    transition: all 0.3s ease;
+    position: relative;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.category-item:hover {
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
+}
+
+.category-item.ui-sortable-helper {
+    background: white;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    transform: scale(1.02);
+    z-index: 1000;
+    cursor: grabbing; /* Change cursor to grabbing when actively dragging */
+}
+
+.category-item .position-indicator {
+    position: absolute;
+    right: 90px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: var(--primary-color);
+    color: white;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.category-item .drag-handle {
+    margin-right: 15px;
+    color: #999;
+    /* Removed cursor: grab as the entire item is now draggable */
+    transition: color 0.2s ease;
+}
+
+.category-item:hover .drag-handle {
+    color: var(--primary-color);
+}
+
+.category-item.ui-sortable-helper .drag-handle {
+    color: var(--primary-color);
+}
+
+.category-item .category-name {
+    flex-grow: 1;
+    font-weight: 500;
+    color: #333;
+}
+
+.category-item .category-icon {
+    margin-right: 15px;
+    width: 20px;
+    text-align: center;
+    color: var(--primary-color);
+}
+
+.category-item .item-actions {
+    display: flex;
+    gap: 8px;
+    opacity: 0.4;
+    transition: opacity 0.2s ease;
+}
+
+.category-item:hover .item-actions {
+    opacity: 1;
+}
+
+.category-item .item-actions button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+}
+
+.category-item .item-actions button:hover {
+    background: #f0f0f0;
+    color: var(--primary-color);
+}
+
+.category-item .item-actions button:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
+.ui-sortable-placeholder {
+    visibility: visible !important;
+    background: var(--primary-color-back);
+    border: 2px dashed var(--primary-color);
+    border-radius: 6px;
+    box-shadow: none;
+}
+
+.saving-indicator {
+    position: fixed;
+    top: 32px;
+    right: 15px;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 14px;
+    display: none;
+    align-items: center;
+    gap: 12px;
+    z-index: 9999;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    backdrop-filter: blur(4px);
+}
+
+.saving-indicator.active {
+    display: flex;
+    animation: fadeInOut 0.3s ease-in-out;
+}
+
+.saving-spinner {
+    width: 18px;
+    height: 18px;
+    border: 2px solid #ffffff;
+    border-top-color: transparent;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+.categories-container {
+    margin-bottom: 30px;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+@keyframes fadeInOut {
+    0% { opacity: 0; transform: translateY(-10px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes highlight {
+    0% { background-color: var(--primary-color-back); }
+    100% { background-color: white; }
+}

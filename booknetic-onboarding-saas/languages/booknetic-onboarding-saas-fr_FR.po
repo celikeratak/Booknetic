@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Booknetic SaaS Tenant Onboarding & Help Center Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-07 13:45+0000\n"
+"PO-Revision-Date: 2025-02-09 15:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1\n"
+"X-Domain: booknetic-onboarding-saas"
+
+msgid "Actions"
+msgstr "Actes"
+
+msgid "Add New Category"
+msgstr "Ajouter une nouvelle catégorie"
+
+msgid "Add New Topic"
+msgstr "Ajouter un nouveau sujet"
+
+msgid "Add Topic"
+msgstr "Ajouter un sujet"
+
+msgid "Add your HTML code here"
+msgstr "Ajoutez votre code HTML ici"
+
+msgid "Are you sure?"
+msgstr "Es-tu sûr?"
+
+msgid "Back to Control Panel"
+msgstr "Retour au panneau de configuration"
+
+msgid "Back to Help Desk"
+msgstr "Retour au Help Desk"
+
+#. Name of the plugin
+msgid "Booknetic SaaS Tenant Onboarding & Help Center Add-on"
+msgstr ""
+"Module complémentaire d'intégration et de centre d'aide pour les locataires "
+"SaaS de Booknetic"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "Control Panel"
+msgstr "Panneau de contrôle"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Edit Topic"
+msgstr "Modifier le sujet"
+
+msgid "Edit your content here..."
+msgstr "Modifiez votre contenu ici..."
+
+#. Description of the plugin
+msgid ""
+"Enhance your tenant experience with the Booknetic SaaS Tenant Onboarding & "
+"Help Center Add-on."
+msgstr ""
+"Améliorez l'expérience de vos locataires avec le module complémentaire "
+"d'intégration et de centre d'aide des locataires SaaS de Booknetic."
+
+msgid "Enter your content here..."
+msgstr "Entrez votre contenu ici..."
+
+msgid "Help Center"
+msgstr "Centre d'aide"
+
+msgid "Help Desk"
+msgstr "Service d'assistance"
+
+msgid "How can we help?"
+msgstr "Comment pouvons-nous vous aider?"
+
+#. Author URI of the plugin
+msgid "https://www.booknetic.com"
+msgstr "https://www.booknetic.com"
+
+msgid "ID"
+msgstr "IDENTIFIANT"
+
+msgid "Live Chat"
+msgstr "Chat en direct"
+
+msgid "Manage Categories"
+msgstr "Gérer les catégories"
+
+msgid "Manage Live Chat"
+msgstr "Gérer le chat en direct"
+
+msgid "Manage LiveChat"
+msgstr "Gérer le LiveChat"
+
+msgid "Manage Topics"
+msgstr "Gérer les sujets"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "No categories found"
+msgstr "Aucune catégorie trouvée"
+
+msgid "No categories found."
+msgstr "Aucune catégorie trouvée."
+
+msgid "No topics found"
+msgstr "Aucun sujet trouvé"
+
+msgid "No topics found matching your search."
+msgstr "Aucun sujet trouvé correspondant à votre recherche."
+
+msgid "No topics found."
+msgstr "Aucun sujet trouvé."
+
+msgid "Prev"
+msgstr "Précédent"
+
+msgid "Re-order Categories"
+msgstr "Réorganiser les catégories"
+
+msgid "Save Category"
+msgstr "Enregistrer la catégorie"
+
+msgid "Save Live Chat"
+msgstr "Enregistrer le chat en direct"
+
+msgid "SEARCH"
+msgstr "RECHERCHE"
+
+msgid "Search"
+msgstr "Recherche"
+
+msgid "Search Beacon, Docs, Reports, etc"
+msgstr "Rechercher une balise, des documents, des rapports, etc."
+
+msgid "Search Results for"
+msgstr "Résultats de la recherche pour"
+
+msgid "Search topics..."
+msgstr "Rechercher des sujets..."
+
+msgid "Select a Category"
+msgstr "Sélectionnez une catégorie"
+
+#. Author of the plugin
+msgid "Tahir"
+msgstr "Tahir"
+
+msgid "This action cannot be undone!"
+msgstr "Cette action ne peut pas être annulée !"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Topic Added Successfully!"
+msgstr "Sujet ajouté avec succès !"
+
+msgid "Topic Successfully Deleted!"
+msgstr "Sujet supprimé avec succès !"
+
+msgid "Topic Updated Successfully!"
+msgstr "Sujet mis à jour avec succès !"
+
+msgid "Update Topic"
+msgstr "Sujet de mise à jour"
+
+msgid "We couldn’t find any results for your search."
+msgstr "Nous n'avons trouvé aucun résultat pour votre recherche."
+
+msgid "Yes, delete it!"
+msgstr "Oui, supprime-le !"

@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Booknetic SV\n"
+"POT-Creation-Date: 2025-03-05 17:56+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: bkntc__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: app/Frontend/assets/js/datepicker.min.js\n"
+"X-Poedit-SearchPathExcluded-1: app/Frontend/assets/js/intlTelInput.min.js\n"
+"X-Poedit-SearchPathExcluded-2: app/Frontend/assets/js/jquery.nicescroll.min."
+"js\n"
+"X-Poedit-SearchPathExcluded-3: app/Frontend/assets/js/utilsIntlTelInput.js\n"
+
+#: App/Backend/view/modal/customer_panel_settings.php:15
+#: App/Backend/view/modal/customer_panel_settings_saas.php:15
+msgid "SAVE CHANGES"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:20
+msgid "Front-end panels"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:21
+#: App/Backend/view/modal/customer_panel_settings_saas.php:20
+#: App/CustomerPanelAddon.php:68 App/CustomerPanelAddon.php:84
+msgid "Customer Panel"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:31
+#: App/Backend/view/modal/customer_panel_settings_saas.php:30
+msgid "Disabled"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:35
+#: App/Backend/view/modal/customer_panel_settings_saas.php:34
+msgid "Enabled"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:46
+#: App/Backend/view/modal/customer_panel_settings_saas.php:43
+msgid "Page of Customer Panel"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:56
+msgid "Time restriction to change appointments"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:96
+msgid "Allow customers to change appointment status"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:104
+msgid "Customers can change appointment status to"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:121
+msgid "Allow customers to reschedule their appointments"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:130
+msgid "Customers can reschedule with these appointment statuses"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:143
+#: App/Backend/view/modal/customer_panel_settings_saas.php:54
+msgid "Allow customers to delete their account"
+msgstr ""
+
+#: App/Backend/view/modal/customer_panel_settings.php:154
+msgid "Hide the \"Pay now\" button on the Customer Panel"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:42
+msgid "Customer Panel settings"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:45
+msgid "Customer Panel URL"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:49
+msgid "Customer Panel Restriction Time"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:85
+msgid "You can customize customer panel settings from here"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:129
+msgid "Redirecting..."
+msgstr ""
+
+#: App/CustomerPanelAddon.php:144
+msgid "January"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:145
+msgid "February"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:146
+msgid "March"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:147
+msgid "April"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:148
+msgid "May"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:149
+msgid "June"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:150
+msgid "July"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:151
+msgid "August"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:152
+msgid "September"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:153
+msgid "October"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:154
+msgid "November"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:155
+msgid "December"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:158
+msgid "Mon"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:159
+msgid "Tue"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:160
+msgid "Wed"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:161
+msgid "Thu"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:162
+msgid "Fri"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:163
+msgid "Sat"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:164
+msgid "Sun"
+msgstr ""
+
+#: App/CustomerPanelAddon.php:167
+msgid "Select..."
+msgstr ""
+
+#: App/CustomerPanelAddon.php:168
+msgid "Searching..."
+msgstr ""
+
+#: App/Frontend/Ajax.php:43
+msgid "Please fill all required fields!"
+msgstr ""
+
+#: App/Frontend/Ajax.php:53
+msgid "Please enter a valid email address!"
+msgstr ""
+
+#: App/Frontend/Ajax.php:60
+msgid "This email address is already used by another customer."
+msgstr ""
+
+#: App/Frontend/Ajax.php:84
+msgid "Profile data was saved successfully"
+msgstr ""
+
+#: App/Frontend/Ajax.php:100
+msgid "Password does not match!"
+msgstr ""
+
+#: App/Frontend/Ajax.php:108
+msgid "Current password is wrong!"
+msgstr ""
+
+#: App/Frontend/Ajax.php:115
+msgid "Password was changed successfully"
+msgstr ""
+
+#: App/Frontend/Ajax.php:155
+msgid "Time format is wrong."
+msgstr ""
+
+#: App/Frontend/Ajax.php:160
+msgid "You can not change the date and time to past."
+msgstr ""
+
+#: App/Frontend/Ajax.php:183
+#, php-format
+msgid ""
+"Minimum time requirement prior to change the appointment date and time is %s"
+msgstr ""
+
+#: App/Frontend/Ajax.php:190
+#, php-format
+msgid "You cannot change the appointment less than %s in advance"
+msgstr ""
+
+#: App/Frontend/Ajax.php:195
+msgid "You have not changed the date and time."
+msgstr ""
+
+#: App/Frontend/Ajax.php:203
+msgid "Appointment was rescheduled successfully!"
+msgstr ""
+
+#: App/Frontend/Ajax.php:328
+msgid "Time limit to change appointment status expired"
+msgstr ""
+
+#: App/Frontend/Ajax.php:337
+msgid "Invalid appointment status"
+msgstr ""
+
+#: App/Frontend/Ajax.php:341
+msgid "Change current status before save"
+msgstr ""
+
+#: App/Frontend/Ajax.php:347
+#, php-format
+msgid "Appointment status changed to %s"
+msgstr ""
+
+#: App/Frontend/Ajax.php:391
+msgid "Invalid payment method"
+msgstr ""
+
+#: App/Frontend/view/appointments_list.php:47
+msgid "Reschedule"
+msgstr ""
+
+#: App/Frontend/view/appointments_list.php:50
+msgid "Change Status"
+msgstr ""
+
+#: App/Frontend/view/appointments_list.php:53
+msgid "Pay Now"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:35
+msgid "LOGOUT"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:47
+msgid "Appointments"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:53
+msgid "Profile"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:59
+msgid "Change password"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:69
+msgid "ID"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:71
+msgid "Company"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:73
+msgid "SERVICE"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:74
+msgid "STAFF"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:75
+msgid "APPOINTMENT DATE"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:76
+msgid "PRICE"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:77
+msgid "DURATION"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:78
+msgid "STATUS"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:92
+msgid "Name"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:98
+msgid "Surname"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:104
+msgid "Email"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:110
+msgid "Phone"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:116
+msgid "Date of birth"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:121
+msgid "Gender"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:123
+msgid "Male"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:124
+msgid "Female"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:132
+#: App/Frontend/view/customer_panel.php:248
+msgid "SAVE"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:136
+msgid "DELETE MY PROFILE"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:147
+msgid "Current password"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:153
+msgid "New password"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:160
+msgid "Repeat new password"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:170
+msgid "CHANGE PASSWORD"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:185
+msgid "Are you sure you want to delete your profile?"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:188
+#: App/Frontend/view/customer_panel.php:203
+msgid "NO"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:189
+#: App/Frontend/view/customer_panel.php:204
+msgid "YES"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:200
+msgid "Are you sure you want to change appointment status to?"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:217
+msgid "Date"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:221
+msgid "Time"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:227
+#: App/Frontend/view/customer_panel.php:247
+#: App/Frontend/view/customer_panel.php:265
+msgid "CANCEL"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:228
+msgid "RESCHEDULE"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:241
+msgid "Select Status"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:259
+msgid "Select Payment Gateway"
+msgstr ""
+
+#: App/Frontend/view/customer_panel.php:266
+msgid "Pay"
+msgstr ""
+
+#: App/Integrations/Divi/includes/modules/CustomerPanel/CustomerPanel.php:16
+msgid "Booknetic Customer Panel"
+msgstr ""
+
+#: App/Listener.php:31
+msgid "Customer panel URL"
+msgstr ""

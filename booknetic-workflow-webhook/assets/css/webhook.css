@@ -1,0 +1,21 @@
+.url_method_group
+{
+    display: flex;
+}
+.url_method_group > :first-child
+{
+    width: 100px;
+}
+.url_method_group > :last-child input
+{
+    border-left: 0;
+}
+.url_method_group > :last-child
+{
+    width: calc(100% - 100px);
+}
+
+.rtl .rtl-mr-1 {
+    margin-right: 0!important;
+    margin-left: 0.25rem!important;
+}

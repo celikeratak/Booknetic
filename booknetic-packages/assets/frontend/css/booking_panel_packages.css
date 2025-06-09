@@ -1,0 +1,449 @@
+.booknetic_package_card
+{
+    background-color: #FFFFFF;
+    border-radius: 2px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    -webkit-box-shadow: 0 0 30px 0 rgba(0,0,0,0.05);
+    -moz-box-shadow: 0 0 30px 0 rgba(0,0,0,0.05);
+    box-shadow: 0 0 30px 0 rgba(0,0,0,0.05);
+}
+.booknetic_package_card.booknetic_package_card_selected
+{
+    border: 2px solid #53D56C;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+.booknetic_package_card_image
+{
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    margin: 15px 20px;
+}
+.booknetic_package_card.booknetic_package_card_selected .booknetic_package_card_image
+{
+    margin-top: 13px;
+    margin-left: 18px;
+}
+.booknetic_package_card_image > img
+{
+    min-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+}
+.booknetic_package_card_title
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    text-align: left;
+    line-height: 18px;
+    flex-grow: 1;
+}
+
+.rtl .booknetic_package_card_title {
+    text-align: right;
+}
+
+.booknetic_package_card_title > span:first-child
+{
+    color: #292D32;
+    font-size: 14px;
+    font-weight: 500;
+    word-break: break-word;
+}
+
+.booknetic_package_card_header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.booknetic_package_card_description
+{
+    color: #828F9A;
+    font-size: 12px;
+    line-height: 19px;
+    padding: 0 20px 20px;
+}
+.booknetic_package_card_price
+{
+    float: right;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-weight: 300;
+    text-align: right;
+    color: #4FBF65;
+    font-size: 26px;
+}
+.booknetic_package_card_price > span
+{
+    color: #8895A0;
+    text-align: right;
+
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    text-decoration: line-through;
+    padding-right: 6px;
+}
+.booknetic_package_category
+{
+    color: #6C70DC;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    text-align: left;
+}
+.booknetic_view_more_package_notes_button, .booknetic_view_less_package_notes_button {
+    font-weight: bold;
+    transition: .2s;
+}
+
+.booknetic_view_more_package_notes_button:hover, .booknetic_view_less_package_notes_button:hover {
+    color: #292D32;
+}
+
+.booknetic_package_card_description_fulltext {
+    display: none;
+}
+
+.booknetic_view_less_package_notes_button {
+    display: none;
+}
+
+.booknetic_package_card_services
+{
+    padding: 0 20px 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.booknetic_package_card_service_el
+{
+    display: flex;
+    padding: 4px 8px;
+    align-items: center;
+    gap: 8px;
+    width: auto;
+    margin: 0 10px 10px 0;
+
+    border-radius: 999px;
+    background: rgba(108, 112, 220, 0.10);
+}
+
+.booknetic_package_card_service_el > span:first-child
+{
+    color: #6C70DC;
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.booknetic_package_card_service_el > span:last-child
+{
+    display: flex;
+    width: 28px;
+    padding: 2px 6px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    border-radius: 999px;
+    background: #6C70DC;
+
+    color: #FFF;
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+@media only screen and (max-width: 1000px)
+{
+    .booknetic_package_card_image
+    {
+        margin: 15px;
+    }
+    .booknetic_package_card.booknetic_package_card_selected .booknetic_package_card_image
+    {
+        margin: 13px 15px 13px 13px;
+    }
+    .booknetic_package_card_title
+    {
+        padding: 10px;
+        overflow: hidden;
+        min-width: 0;
+    }
+    .booknetic_package_card_title > span:first-child
+    {
+        font-size: 12px;
+    }
+
+    .booknetic_package_card {
+        flex-wrap: wrap;
+    }
+
+    .booknetic_package_card_description
+    {
+        order: 5;
+        padding: 0 16px 12px;
+        width: 100%;
+        max-width: unset;
+    }
+    .booknetic_package_card_price
+    {
+        padding-right: 15px;
+        font-size: 16px;
+        max-width: 130px;
+        width: calc(100% - 200px);
+        white-space: nowrap;
+        justify-content: flex-end;
+    }
+    .booknetic_package_card.booknetic_package_card_selected .booknetic_package_card_price
+    {
+        padding-right: 13px;
+    }
+}
+
+/* Finish Package booking */
+.bkntc_gap-6 {
+    gap: 6px;
+}
+
+.bkntc_gap-16 {
+    gap: 16px;
+}
+
+.bkntc_gap-12 {
+    gap: 12px;
+}
+
+.bkntc_gap-10 {
+    gap: 10px;
+}
+
+.bkntc_package-confirmation_container {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    padding-top: 42px;
+    background-color: #fff;
+}
+
+.bkntc_package-confirmation_container > div {
+    padding-inline: 42px;
+    overflow: auto;
+}
+
+.bkntc_package-confirmation_header {
+    padding: 16px;
+    border: 1px solid #4FBF65;
+    border-radius: 8px;
+}
+
+.bkntc_package-confirmation_header > div {
+    margin-bottom: 6px;
+    color: #4FBF65;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px
+}
+
+.bkntc_package-confirmation_header h1 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #14151A;
+    margin-bottom: 10px;
+}
+
+.bkntc_package-confirmation_header p {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #828F9A;
+}
+
+.bkntc_package_summary {
+    padding: 16px;
+    margin-block: 16px;
+    border-radius: 8px;
+    border: 1px solid #E2EAF3;
+}
+
+.bkntc_package_summary header {
+    border-bottom: thin solid #E2EAF3;
+    padding-bottom: 16px;
+}
+
+.bkntc_package_summary h2 {
+    color: #14151A;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.bkntc_package_summary p {
+    color: #828F9A;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px
+}
+
+.bkntc_package_appointment_container {
+    padding-block: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bkntc_package_appointment {
+    padding: 12px 16px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bkntc_package_appointment.booked {
+    background-color: #E2F3E2;
+}
+
+.bkntc_package_appointment_info .dot {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: #000;
+}
+
+.bkntc_package_confirmation span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px
+}
+
+.bkntc_package_confirmation p {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #000;
+}
+
+.bkntc_package_appointment_info p {
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.bkntc_package_appointment.empty {
+    border: 1px dashed #BAC9DA;
+    cursor: pointer;
+}
+
+.bkntc_package_icon, .bkntc_package-confirmation_container footer button > div {
+    width: 20px;
+    height: 20px;
+}
+
+.bkntc_package_icon img, .bkntc_package-confirmation_container footer img {
+    width: 100%;
+    height: 100%;
+}
+
+.bkntc_package_appointment.empty p {
+    color: #292D32;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.bkntc_package_footer {
+    padding: 14px 42px;
+    border-top: 1px solid #E2EAF3;
+}
+
+.bkntc_package-confirmation_container footer button {
+    all: unset;
+    cursor: pointer;
+    padding: 12px 16px;
+    border-radius: 2px;
+    font-family: Poppins, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    gap: 10px;
+}
+
+.bkntc_package-confirmation_container footer button:hover {
+    filter: brightness(90%);
+}
+
+.bkntc_package-confirmation_container footer button.bkntc_new_booking_btn {
+    background-color: #F7F8FB;
+    border: 1px solid #E2EAF3;
+    color: #828F9A;
+}
+
+.bkntc_package-confirmation_container footer button.bkntc_finish_btn {
+    background-color: #6C70DC;
+    color: #fff;
+    border: 1px solid transparent;
+}
+
+.bkntc_package-flex {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.bkntc_package-m-0 {
+    margin: 0;
+}
+
+.bkntc_package-p-0 {
+    padding: 0;
+}
+
+.bkntc_package_flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.bkntc_package_flex_footer {
+    border-top: thin solid #E2EAF3;
+    justify-content: end;
+    padding: 14px 42px;
+}
+
+@media (width <= 1000px) {
+    .booknetic_packages_booking_panel_modal .booknetic_appointment_container_body{
+        height: calc(100vh - 320px);
+        min-height: initial;
+    }
+
+    .booknetic_packages_booking_panel_modal .booknetic_appointment{
+        margin-inline: 10px;
+    }
+}

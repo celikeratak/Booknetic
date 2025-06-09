@@ -1,0 +1,536 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Packages for Booknetic\n"
+"POT-Creation-Date: 2025-03-27 09:58+0400\n"
+"PO-Revision-Date: 2024-07-22 18:23+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: bkntc__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: App/Backend/PackageBookingsAjax.php:55 App/Backend/PackagesAjax.php:64
+msgid "Details"
+msgstr ""
+
+#: App/Backend/PackageBookingsAjax.php:103
+msgid "Please fill all required fields!"
+msgstr ""
+
+#: App/Backend/PackageBookingsAjax.php:190
+msgid "Package Booking Details"
+msgstr ""
+
+#: App/Backend/PackageBookingsAjax.php:208
+msgid "Package Booking not found!"
+msgstr ""
+
+#: App/Backend/PackageBookingsController.php:32
+#: App/Backend/PackagesController.php:28 App/PackagesAddon.php:39
+#: App/PackagesAddon.php:44
+msgid "Edit"
+msgstr ""
+
+#: App/Backend/PackageBookingsController.php:34
+msgid "Info"
+msgstr ""
+
+#: App/Backend/PackageBookingsController.php:38
+#: App/Backend/PackagesController.php:32 App/PackagesAddon.php:40
+#: App/PackagesAddon.php:45
+msgid "Delete"
+msgstr ""
+
+#: App/Backend/PackageBookingsController.php:47
+msgid "Package bookings"
+msgstr ""
+
+#: App/Backend/PackageBookingsController.php:50
+msgid "BOOK PACKAGE"
+msgstr ""
+
+#: App/Backend/PackageBookingsController.php:54
+#: App/Backend/PackagesController.php:48
+#: App/Frontend/views/customer_panel/packages_tab.php:24
+msgid "ID"
+msgstr ""
+
+#: App/Backend/PackageBookingsController.php:56
+msgid "CUSTOMER"
+msgstr ""
+
+#: App/Backend/PackageBookingsController.php:63
+#: App/Backend/PackageBookingsController.php:64
+#: App/Frontend/views/customer_panel/packages_tab.php:25
+msgid "PACKAGE NAME"
+msgstr ""
+
+#: App/Backend/PackageBookingsController.php:65
+#: App/Frontend/views/customer_panel/packages_tab.php:28
+msgid "CREATED AT"
+msgstr ""
+
+#: App/Backend/PackageBookingsController.php:67
+#: App/Frontend/views/customer_panel/packages_tab.php:26
+msgid "PRICE"
+msgstr ""
+
+#: App/Backend/PackageBookingsController.php:74
+msgid "BOOKED"
+msgstr ""
+
+#: App/Backend/PackagesAjax.php:70
+msgid "Services"
+msgstr ""
+
+#: App/Backend/PackagesAjax.php:76
+msgid "Price"
+msgstr ""
+
+#: App/Backend/PackagesAjax.php:148
+msgid "Both"
+msgstr ""
+
+#: App/Backend/PackagesAjax.php:149
+msgid "Backend"
+msgstr ""
+
+#: App/Backend/PackagesAjax.php:150
+msgid "Frontend"
+msgstr ""
+
+#: App/Backend/PackagesAjax.php:160
+msgid "Any locale"
+msgstr ""
+
+#: App/Backend/PackagesController.php:41
+#: App/Frontend/views/booking_panel_packages.php:9 App/PackagesAddon.php:37
+#: App/PackagesAddon.php:98
+msgid "Packages"
+msgstr ""
+
+#: App/Backend/PackagesController.php:44
+msgid "ADD PACKAGE"
+msgstr ""
+
+#: App/Backend/PackagesController.php:49
+msgid "NAME"
+msgstr ""
+
+#: App/Backend/PackagesController.php:51
+msgid "SERVICES"
+msgstr ""
+
+#: App/Backend/PackagesController.php:64
+msgid "TOTAL PRICE"
+msgstr ""
+
+#: App/Backend/PackagesController.php:75
+msgid "DISCOUNT"
+msgstr ""
+
+#: App/Backend/PackagesController.php:87
+msgid "FINAL PRICE"
+msgstr ""
+
+#: App/Backend/view/modal/package_booking_info.php:31
+msgid "Package booking"
+msgstr ""
+
+#: App/Backend/view/modal/package_booking_info.php:54
+msgid "CLOSE"
+msgstr ""
+
+#: App/Backend/view/modal/package_booking_payment_edit.php:20
+msgid "Payment"
+msgstr ""
+
+#: App/Backend/view/modal/package_booking_payment_edit.php:30
+msgid "Total amount"
+msgstr ""
+
+#: App/Backend/view/modal/package_booking_payment_edit.php:34
+msgid "Paid amount"
+msgstr ""
+
+#: App/Backend/view/modal/package_booking_payment_edit.php:40
+msgid "Payment status"
+msgstr ""
+
+#: App/Backend/view/modal/package_booking_payment_edit.php:42
+msgid "Paid"
+msgstr ""
+
+#: App/Backend/view/modal/package_booking_payment_edit.php:43
+msgid "Not paid"
+msgstr ""
+
+#: App/Backend/view/modal/package_booking_payment_edit.php:53
+msgid "BACK"
+msgstr ""
+
+#: App/Backend/view/modal/package_booking_payment_edit.php:54
+#: App/Backend/view/modal/package_bookings_add_new.php:42
+#: App/Backend/view/modal/packages_add_new.php:59
+#: App/Backend/view/modal/workflow_event_package_booking_created.php:49
+msgid "SAVE"
+msgstr ""
+
+#: App/Backend/view/modal/package_bookings_add_new.php:16
+msgid "Edit Package Booking"
+msgstr ""
+
+#: App/Backend/view/modal/package_bookings_add_new.php:16
+msgid "Add Package Booking"
+msgstr ""
+
+#: App/Backend/view/modal/package_bookings_add_new.php:41
+#: App/Backend/view/modal/packages_add_new.php:57
+#: App/Backend/view/modal/workflow_event_package_booking_created.php:48
+#: App/Frontend/views/customer_panel/packages_tab.php:85
+msgid "CANCEL"
+msgstr ""
+
+#: App/Backend/view/modal/packages_add_new.php:34
+msgid "Edit Package"
+msgstr ""
+
+#: App/Backend/view/modal/packages_add_new.php:34
+msgid "Add Package"
+msgstr ""
+
+#: App/Backend/view/modal/workflow_event_package_booking_created.php:12
+msgid "Edit event settings"
+msgstr ""
+
+#: App/Backend/view/modal/workflow_event_package_booking_created.php:21
+msgid "Called from"
+msgstr ""
+
+#: App/Backend/view/modal/workflow_event_package_booking_created.php:33
+msgid "Locale filter"
+msgstr ""
+
+#: App/Backend/view/tabs/package_booking_info_details.php:19
+#: App/PackagesAddon.php:126
+msgid "Package Info"
+msgstr ""
+
+#: App/Backend/view/tabs/package_booking_info_details.php:37
+#: App/Backend/view/tabs/package_bookings_add_new_details.php:15
+#: App/Frontend/views/booking_panel/packages_confirmation.php:17
+msgid "Package"
+msgstr ""
+
+#: App/Backend/view/tabs/package_booking_info_details.php:42
+msgid "Created at"
+msgstr ""
+
+#: App/Backend/view/tabs/package_booking_info_details.php:46
+msgid "Expires at"
+msgstr ""
+
+#: App/Backend/view/tabs/package_booking_info_details.php:62
+#: App/Frontend/views/customer_panel/packages_tab_manage_package.php:40
+#, php-format
+msgid "%d sessions left"
+msgstr ""
+
+#: App/Backend/view/tabs/package_booking_info_details.php:91
+#: App/Frontend/views/booking_panel/packages_finish.php:46
+#: App/Frontend/views/customer_panel/packages_tab_manage_package.php:60
+msgid "Schedule now"
+msgstr ""
+
+#: App/Backend/view/tabs/package_bookings_add_new_details.php:30
+msgid "Customer"
+msgstr ""
+
+#: App/Backend/view/tabs/package_bookings_add_new_details.php:41
+msgid "Note"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:39
+msgid "Package image"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:43
+msgid "Upload Image"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:44
+msgid "Remove"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:50
+msgid "Package name"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:62
+msgid "Expiration"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:69
+msgid "Day"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:70
+msgid "Week"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:71
+msgid "Month"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:72
+msgid "Year"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:78
+msgid "Payment method"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:79
+msgid "This will override the services payment methods within Package"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:93
+msgid "Make Package Private"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_details.php:103
+msgid "Description"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_price.php:44
+msgid "Total Price"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_services.php:64
+msgid "Services with custom durations will only be added with default duration."
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_services.php:77
+msgid "Number of appointments"
+msgstr ""
+
+#: App/Backend/view/tabs/packages_add_new_services.php:79
+msgid "Set available appointment count for the service."
+msgstr ""
+
+#: App/Frontend/Ajax.php:46 App/Helpers/PackageService.php:134
+#: App/Helpers/PackageService.php:231 App/Helpers/PackageService.php:278
+#: App/Helpers/PackageService.php:281
+msgid "Something went wrong!"
+msgstr ""
+
+#: App/Frontend/Ajax.php:242 App/Frontend/Ajax.php:327
+msgid "Payment method is not supported"
+msgstr ""
+
+#: App/Frontend/views/booking_panel/packages_finish.php:13
+msgid "Confirmed"
+msgstr ""
+
+#: App/Frontend/views/booking_panel/packages_finish.php:14
+msgid "Thank you for your request!"
+msgstr ""
+
+#: App/Frontend/views/booking_panel/packages_finish.php:15
+msgid "We sent an email to you with all the details."
+msgstr ""
+
+#: App/Frontend/views/booking_panel/packages_finish.php:25
+#, php-format
+msgid "Booked %d of %d sessions"
+msgstr ""
+
+#: App/Frontend/views/booking_panel/packages_finish.php:39
+msgid "Confirmation number:"
+msgstr ""
+
+#: App/Frontend/views/booking_panel/packages_finish.php:55
+msgid "New booking"
+msgstr ""
+
+#: App/Frontend/views/booking_panel/packages_finish.php:56
+msgid "Finish booking"
+msgstr ""
+
+#: App/Frontend/views/booking_panel_packages.php:37
+msgid "Show more"
+msgstr ""
+
+#: App/Frontend/views/booking_panel_packages.php:40
+msgid "Show less"
+msgstr ""
+
+#: App/Frontend/views/customer_panel/packages_tab.php:27
+msgid "APPOINTMENTS"
+msgstr ""
+
+#: App/Frontend/views/customer_panel/packages_tab.php:46
+#: App/Frontend/views/customer_panel/packages_tab_manage_package.php:24
+#, php-format
+msgid "Booked %d of %d totals"
+msgstr ""
+
+#: App/Frontend/views/customer_panel/packages_tab.php:56
+msgid "MANAGE PACKAGE"
+msgstr ""
+
+#: App/Frontend/views/customer_panel/packages_tab.php:62
+msgid "PAY NOW"
+msgstr ""
+
+#: App/Frontend/views/customer_panel/packages_tab.php:79
+msgid "Select Payment Gateway"
+msgstr ""
+
+#: App/Frontend/views/customer_panel/packages_tab.php:86
+msgid "Pay"
+msgstr ""
+
+#: App/Helpers/PackageService.php:24
+msgid "Package name is required."
+msgstr ""
+
+#: App/Helpers/PackageService.php:27 App/Helpers/PackageService.php:32
+msgid "Package services is required."
+msgstr ""
+
+#: App/Helpers/PackageService.php:36 App/Helpers/PackageService.php:41
+msgid "Package payment methods is required."
+msgstr ""
+
+#: App/Helpers/PackageService.php:104
+msgid "You cannot delete this package because there are Package Bookings associated with it."
+msgstr ""
+
+#: App/Helpers/PackageService.php:120 App/Helpers/PackageService.php:265
+#: App/Helpers/PackageService.php:273
+msgid "Package not found!"
+msgstr ""
+
+#: App/Helpers/PackageService.php:125
+msgid "Customer not found!"
+msgstr ""
+
+#: App/Helpers/PackageService.php:147
+msgid "You cannot edit this package. First, delete your booked appointments."
+msgstr ""
+
+#: App/Helpers/PackageService.php:220
+msgid "You cannot delete this Package Booking because there are appointments associated with it."
+msgstr ""
+
+#: App/Helpers/PackageService.php:234
+msgid "The Paid amount cannot be more than the Total amount."
+msgstr ""
+
+#: App/Helpers/PackageService.php:268
+msgid "The cart module isn't supported with the Package module!"
+msgstr ""
+
+#: App/Helpers/PackageService.php:284
+msgid "Package is not fully paid"
+msgstr ""
+
+#: App/Helpers/PackageService.php:333
+msgid "Only JPG and PNG images allowed!"
+msgstr ""
+
+#: App/PackagesAddon.php:32
+msgid "Packages module"
+msgstr ""
+
+#: App/PackagesAddon.php:38
+msgid "Add"
+msgstr ""
+
+#: App/PackagesAddon.php:42 App/PackagesAddon.php:109
+msgid "Package Bookings"
+msgstr ""
+
+#: App/PackagesAddon.php:43
+msgid "Add new"
+msgstr ""
+
+#: App/PackagesAddon.php:48
+msgid "New Package Booking"
+msgstr ""
+
+#: App/PackagesAddon.php:125
+msgid "Package Booking Info"
+msgstr ""
+
+#: App/PackagesAddon.php:129
+msgid "Package Booking - ID"
+msgstr ""
+
+#: App/PackagesAddon.php:134
+msgid "Package Booking - Note"
+msgstr ""
+
+#: App/PackagesAddon.php:139
+msgid "Package Booking - Price"
+msgstr ""
+
+#: App/PackagesAddon.php:144
+msgid "Package Booking - Expires On"
+msgstr ""
+
+#: App/PackagesAddon.php:149
+msgid "Package Booking - Payment method"
+msgstr ""
+
+#: App/PackagesAddon.php:156
+msgid "Package - ID"
+msgstr ""
+
+#: App/PackagesAddon.php:161
+msgid "Package - Name"
+msgstr ""
+
+#: App/PackagesAddon.php:166
+msgid "Package - Image URL"
+msgstr ""
+
+#: App/PackagesAddon.php:171
+msgid "Package - Color"
+msgstr ""
+
+#: App/PackagesAddon.php:176
+msgid "Package - Note"
+msgstr ""
+
+#: App/PackagesAddon.php:181
+msgid "Package - Services list"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Packages for Booknetic"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Packages addon for Booknetic."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FS Code"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.booknetic.com"
+msgstr ""

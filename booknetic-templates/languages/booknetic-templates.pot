@@ -1,0 +1,146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: test\n"
+"POT-Creation-Date: 2024-08-07 22:01+0400\n"
+"PO-Revision-Date: 2020-02-23 21:08+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ../app\n"
+"X-Poedit-KeywordsList: bkntc__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Backend/Ajax.php:26
+msgid "DETAILS"
+msgstr ""
+
+#: Backend/Ajax.php:32
+msgid "DATA"
+msgstr ""
+
+#: Backend/Ajax.php:94 Backend/Helpers/Collector.php:105
+#: Backend/Helpers/Collector.php:109
+msgid "Invalid Data"
+msgstr ""
+
+#: Backend/Ajax.php:154
+msgid "Couldn't find the template!"
+msgstr ""
+
+#: Backend/Controller.php:18 TemplatesAddon.php:57
+msgid "Templates"
+msgstr ""
+
+#: Backend/Controller.php:20
+msgid "Edit"
+msgstr ""
+
+#: Backend/Controller.php:21
+msgid "Delete"
+msgstr ""
+
+#: Backend/Controller.php:30
+msgid "ID"
+msgstr ""
+
+#: Backend/Controller.php:31
+msgid "NAME"
+msgstr ""
+
+#: Backend/Controller.php:35
+msgid "CREATED_AT"
+msgstr ""
+
+#: Backend/Helpers/Helper.php:38
+msgid "Only JPG and PNG images allowed!"
+msgstr ""
+
+#: Backend/Helpers/Helper.php:71
+msgid "Default template"
+msgstr ""
+
+#: Backend/Helpers/Helper.php:104
+msgid "Locations"
+msgstr ""
+
+#: Backend/Helpers/Helper.php:105
+msgid "Services"
+msgstr ""
+
+#: Backend/Helpers/Helper.php:106
+msgid "Staff"
+msgstr ""
+
+#: Backend/Helpers/Helper.php:107
+msgid "Workflows"
+msgstr ""
+
+#: Backend/Helpers/Helper.php:108
+msgid "Business Hours"
+msgstr ""
+
+#: Backend/Helpers/Helper.php:109
+msgid "Appearances"
+msgstr ""
+
+#: Backend/Helpers/Helper.php:110
+msgid "General Settings"
+msgstr ""
+
+#: Backend/Helpers/Traits/CollectorFetch.php:87
+msgid "Unable to export the staffs. No active locations found. Please, make sure the locations checkbox above is enabled and you have at least 1 location attached to a staff."
+msgstr ""
+
+#: Backend/view/modal/add_new.php:24
+msgid "Edit Template"
+msgstr ""
+
+#: Backend/view/modal/add_new.php:24
+msgid "Add Template"
+msgstr ""
+
+#: Backend/view/modal/add_new.php:48
+msgid "CANCEL"
+msgstr ""
+
+#: Backend/view/modal/add_new.php:50
+msgid "SAVE"
+msgstr ""
+
+#: Backend/view/modal/add_new.php:50
+msgid "ADD"
+msgstr ""
+
+#: Backend/view/tab/details.php:25
+msgid "Name"
+msgstr ""
+
+#: Backend/view/tab/details.php:31
+msgid "Select Tenant"
+msgstr ""
+
+#: Backend/view/tab/details.php:32
+msgid "Select Tenant to export its data as a template"
+msgstr ""
+
+#: Backend/view/tab/details.php:38
+msgid "Description"
+msgstr ""
+
+#: Backend/view/tab/details.php:43
+msgid "Set As Default"
+msgstr ""
+
+#: TemplatesAddon.php:36
+msgid "USE DEFAULT"
+msgstr ""
+
+#: TemplatesAddon.php:49
+msgid "Please, insert the template name first!"
+msgstr ""

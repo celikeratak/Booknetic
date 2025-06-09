@@ -1,0 +1,193 @@
+.gap-12 {
+    gap: 12px;
+}
+
+.gap-32 {
+    gap: 32px;
+}
+
+.gap-6 {
+    gap: 6px;
+}
+
+.gap-16 {
+    gap: 16px;
+}
+
+#selectedPackageImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.package-expiration {
+    margin-block: 2px;
+}
+
+.expiration-span {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.expiration-select-container.hidden {
+    opacity: 0;
+    user-select: none;
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.package-form-container .help-icon {
+    padding-left: 0 !important;
+}
+
+.package-form-container .select2-container--bootstrap .select2-selection--single, .package-form-container .select2-container--bootstrap .select2-selection--multiple, .private-package {
+    height: 52px !important;
+}
+
+.package-form-container .select2-container--bootstrap .select2-selection--single .select2-selection__rendered {
+    padding: 7px 0 !important;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.private-package p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.expiration-input {
+    height: 52px;
+    text-align: center;
+    flex-basis: 150px;
+}
+
+/*Pricing css*/
+
+.package-price-container {
+    padding-block: 24px 8px;
+    border-bottom: 1px solid #E3EBF4;
+    display: none;
+}
+
+.total-price-container {
+    margin-top: 16px;
+}
+
+.total-price-container h2 {
+    color: #2E3A59;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.appointment-amount {
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 18px;
+}
+
+.product-name {
+    color: #2E3A59;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.product-price {
+    color: #53D56C;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.line {
+    flex: 1;
+    height: 1px;
+    position: relative;
+    bottom: 7px;
+    border: thin dashed #DBEAF2;
+}
+
+/* add service styles*/
+.services {
+    margin-top: 24px;
+}
+
+.add-service-container {
+    padding-block: 24px;
+}
+
+.services-helper {
+    margin-top: 10px;
+    color: #292D32;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.package-service {
+    border: 1px solid #D9E6FF;
+    background-color: rgba(227, 235, 244, 0.30);
+    padding: 16px;
+    border-radius: 4px;
+}
+
+.package-service-name {
+    color: #292D32;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px
+}
+
+.package-service-header {
+    border-bottom: 1px solid #D9E6FF;
+    padding-bottom: 16px;
+    margin-bottom: 16px;
+}
+
+.number-of-appointments {
+    display: block;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.number-appointments {
+    border: 1px solid #D9E6FF;
+    border-radius: 4px;
+}
+
+.number-appointments input, .number-appointments button {
+    padding: 14px 16px;
+    border: none;
+    background-color: #fff;
+    text-align: center;
+}
+
+.number-appointments input:focus {
+    outline: none;
+}
+
+.number-appointments input {
+    border-left: 1px solid #E3EAF3;
+    border-right: 1px solid #E3EAF3;
+    width: 30%;
+}
+
+/*Mobile styles*/
+
+@media (width <= 500px) {
+    .product-name, .total-price-container h2, .product-price, .price {
+        font-size: 13px;
+    }
+
+    .expiration-container {
+        flex-direction: column;
+    }
+}
