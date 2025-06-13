@@ -1,0 +1,14 @@
+#module-advancedreports {
+  border-top: 1px solid #e3eaf3;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: 20px 40px;
+}
+.advvancedreport-header {
+  padding: 10px;
+  background: #fff;
+  border-bottom: 1px solid #f6f6f6;
+}
+.advvancedreport-header .btn.dropdown-toggle::after {
+  display: none;
+}
