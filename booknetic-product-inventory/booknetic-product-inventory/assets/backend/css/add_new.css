@@ -1,0 +1,236 @@
+.inventory-modal {
+    color: #292D32;
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+}
+
+.inventory-modal, .inventory-modal__header div {
+    gap: 10px;
+}
+
+.inventory-modal button {
+    all: unset;
+    cursor: pointer;
+    font-family: Poppins, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    border-radius: 2px;
+}
+
+.inventory-modal__header {
+    padding: 24px 16px;
+    border-bottom: 1px solid #E3EBF4;
+}
+
+.modal-plus-icon {
+    padding: 8px 14px;
+    border-radius: 6px;
+    background: #6C70DC;
+    color: #fff;
+    font-size: 16px;
+}
+
+.product-image {
+    gap: 16px;
+}
+
+.product-image button {
+    padding: 10px 16px;
+}
+
+.product-image p {
+    margin: 0 0 6px 0;
+    padding: 0;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.inventory-modal__header-text {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.scroll-wrapper {
+    height: calc(100vh - 170px);
+    overflow: auto;
+}
+
+.inventory-modal-body {
+    margin: 24px 32px;
+}
+
+.inventory-modal .booknetic-primary-btn {
+    background-color: #6C70DC;
+    color: #fff;
+}
+
+.inventory-modal .booknetic-primary-btn:hover {
+    filter: brightness(90%);
+}
+
+.inventory-btn-container {
+    gap: 6px;
+}
+
+.inventory-modal .booknetic-secondary-btn {
+    border: 1px solid #E2EAF3;
+    background: #FFF;
+    color: #828F9A;
+}
+
+.inventory-form {
+    gap: 16px;
+    margin-block: 24px;
+}
+
+.inventory-form div {
+    gap: 16px;
+}
+
+.inventory-form label {
+    display: block;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;;
+}
+
+.inventory-form label span {
+    color: #FA3E6E;
+    position: relative;
+    bottom: 3px;
+    left: 3px;
+}
+
+#uploadInventoryProductImage {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+    visibility: hidden;
+    user-select: none;
+    pointer-events: none;
+}
+
+.inventory-form input, .inventory-description-textarea, #inventoryProductName {
+    width: 100%;
+    border-radius: 2px;
+    border: 1px solid #E3EBF4;
+    padding: 10px 16px;
+}
+
+.inventory-form input::placeholder {
+    color: #8895A0;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.inventory-form input:focus, .inventory-description-textarea:focus, #inventoryProductName:focus {
+    border: thin solid #ddd;
+    outline: none;
+}
+
+.inventory-description-wrapper, .inventory-product-name-wrapper {
+    position: relative;
+}
+
+.inventory-description-wrapper i {
+    position: absolute;
+    top: 14px;
+    right: 16px;
+}
+
+.inventory-product-name-wrapper i {
+    position: absolute;
+    top: 18px;
+    right: 16px;
+}
+
+.inventory-modal i {
+    color: #6C70DC;
+}
+
+.inventory-service h4 {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0 0 6px 0;
+    padding: 0;
+}
+
+.inventory-service p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.inventory-modal .booknetic-secondary-btn:hover:not(.disabled) {
+    background-color: #F9FAFB;
+}
+
+.inventory-remove-btn.disabled {
+    cursor: not-allowed;
+}
+
+.disable-in-booking {
+    margin-block: 24px;
+    gap: 6px;
+    border: 2px dotted #E3EBF4;
+    background-color: rgba(227, 235, 244, 0.30);
+    padding: 14px 16px;
+}
+
+.disable-in-booking p {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.disable-in-booking img {
+    margin-right: auto;
+}
+
+.inventory-modal footer {
+    border-top: 1px solid #E3EBF4;
+    gap: 10px;
+    padding: 16px 32px;
+}
+
+.inventory-description-textarea {
+    padding: 14px 32px 14px 16px;
+}
+
+#inventoryProductName{
+    padding: 12px 32px 11px 16px;
+}
+
+.inventory-modal footer button {
+    padding: 12px 32px;
+}
+
+
+.selected-product-image {
+    width: 80px;
+    height: 80px;
+}
+
+.selected-product-image img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.inventory-modal-body input{
+    padding-block: 11px;
+}
+
+.inventory-modal input, textarea{
+    font-size: 14px;
+}

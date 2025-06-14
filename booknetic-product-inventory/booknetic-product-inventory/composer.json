@@ -1,0 +1,13 @@
+{
+	"autoload": {
+		"psr-4": {
+			"BookneticAddon\\Inventory\\": "App/"
+		}
+	},
+
+	"config": {
+		"platform": {
+			"php": "7.4"
+		}
+	}
+}

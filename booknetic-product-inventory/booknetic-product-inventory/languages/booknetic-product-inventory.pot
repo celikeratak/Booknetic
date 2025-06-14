@@ -1,0 +1,217 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Inventory for Booknetic\n"
+"POT-Creation-Date: 2024-07-22 18:27+0400\n"
+"PO-Revision-Date: 2024-07-22 18:26+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: bkntc__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: App/Backend/Controller.php:35 App/Backend/view/logs.php:28
+msgid "Logs"
+msgstr ""
+
+#: App/Backend/Controller.php:51 App/Backend/view/products.php:22 App/Frontend/view/product_list.php:15
+msgid "Products"
+msgstr ""
+
+#: App/Backend/ProductObject.php:56
+msgid "Please fill in the \"Name\" field correctly!"
+msgstr ""
+
+#: App/Backend/ProductObject.php:60
+msgid "Please fill in the \"Quantity\" field correctly!"
+msgstr ""
+
+#: App/Backend/ProductObject.php:86
+msgid "An invalid service id is provided."
+msgstr ""
+
+#: App/Backend/ProductObject.php:113
+msgid "Only JPG and PNG images allowed!"
+msgstr ""
+
+#: App/Backend/view/logs.php:37
+msgid "Last 30 Days"
+msgstr ""
+
+#: App/Backend/view/logs.php:52
+msgid "Advanced filter"
+msgstr ""
+
+#: App/Backend/view/logs.php:56 App/Backend/view/logs.php:153
+msgid "Service"
+msgstr ""
+
+#: App/Backend/view/logs.php:65
+msgid "Staff"
+msgstr ""
+
+#: App/Backend/view/logs.php:74 App/Backend/view/logs.php:152
+msgid "Customer"
+msgstr ""
+
+#: App/Backend/view/logs.php:83 App/Backend/view/logs.php:156
+msgid "Status"
+msgstr ""
+
+#: App/Backend/view/logs.php:92
+msgid "Reset"
+msgstr ""
+
+#: App/Backend/view/logs.php:93 App/Backend/view/modal/add_new.php:125
+msgid "Save"
+msgstr ""
+
+#: App/Backend/view/logs.php:102
+msgid "Export to CSV"
+msgstr ""
+
+#: App/Backend/view/logs.php:123
+msgid "Total sold"
+msgstr ""
+
+#: App/Backend/view/logs.php:141
+msgid "Total revenue"
+msgstr ""
+
+#: App/Backend/view/logs.php:150 App/Backend/view/products.php:57
+msgid "ID"
+msgstr ""
+
+#: App/Backend/view/logs.php:151 App/Backend/view/modal/add_new.php:60 App/Backend/view/products.php:58
+msgid "Product name"
+msgstr ""
+
+#: App/Backend/view/logs.php:154
+msgid "Bought date"
+msgstr ""
+
+#: App/Backend/view/logs.php:155
+msgid "Revenue"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:36
+msgid "Edit Product"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:36
+msgid "Add Product"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:49
+msgid "Product image"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:53
+msgid "Upload Image"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:54
+msgid "Remove"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:69
+msgid "Product quantity"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:77
+msgid "Purchase price ($)"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:84
+msgid "Sell price ($)"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:93
+msgid "Services"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:94
+msgid "This is a hint text explain how it works"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:105
+msgid "Disable to select in Booking panel"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:114
+msgid "Description"
+msgstr ""
+
+#: App/Backend/view/modal/add_new.php:124
+msgid "Cancel"
+msgstr ""
+
+#: App/Backend/view/products.php:25
+msgid "Create product"
+msgstr ""
+
+#: App/Backend/view/products.php:41
+msgid "selected"
+msgstr ""
+
+#: App/Backend/view/products.php:47
+msgid "Delete Products"
+msgstr ""
+
+#: App/Backend/view/products.php:59
+msgid "Purchase price"
+msgstr ""
+
+#: App/Backend/view/products.php:60
+msgid "Sell price"
+msgstr ""
+
+#: App/Backend/view/products.php:61
+msgid "Created date"
+msgstr ""
+
+#: App/Backend/view/products.php:62
+msgid "Quantity"
+msgstr ""
+
+#: App/ProductInventoryAddon.php:23 App/ProductInventoryAddon.php:29 App/ProductInventoryAddon.php:56
+msgid "Product Inventory"
+msgstr ""
+
+#: App/ProductInventoryAddon.php:30
+msgid "Add new"
+msgstr ""
+
+#: App/ProductInventoryAddon.php:31
+msgid "Info"
+msgstr ""
+
+#: App/ProductInventoryAddon.php:32
+msgid "Edit"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Product Inventory for Booknetic"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add and sell products through Booknetic"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FS Code"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.booknetic.com"
+msgstr ""

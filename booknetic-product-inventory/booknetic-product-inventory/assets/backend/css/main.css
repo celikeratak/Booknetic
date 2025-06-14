@@ -1,0 +1,350 @@
+#inventoryProductTable th:first-child .dt-column-title {
+    margin-right: 0 !important;
+}
+
+.create-product-button {
+    all: unset;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    background: #292D32;
+    color: #FFFFFF;
+    border-radius: 6px;
+    padding: 10px 16px;
+    gap: 10px;
+}
+
+.create-product-button:hover {
+    filter: brightness(90%);
+}
+
+.quantity-add-product {
+    padding: 6px 10px;
+    visibility: hidden;
+    user-select: none;
+    opacity: 0;
+    background-color: #1E2126;
+}
+
+.quantity-add-product:hover {
+    background-color: #292D32;
+}
+
+.inventory-product-header {
+    color: #292D32;
+    font-family: Poppins, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+.inventory-product-quantity {
+    flex: 1;
+}
+
+.inventory-quantity-wrapper {
+    gap: 12px;
+}
+
+.inventory-more-menu-container {
+    position: relative;
+}
+
+.inventory-more-menu {
+    position: absolute;
+    right: 0;
+    top: 30px;
+    display: none;
+    border: 1px solid #E2EAF3;
+    width: 160px;
+    margin: 0;
+    padding: 0;
+    padding-block: 8px;
+    background-color: #fff;
+    z-index: 2;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.1);
+}
+
+.rtl .inventory-more-menu{
+    right: auto;
+    left: 0;
+}
+
+.rtl .inventory-more-menu li{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.inventory-more-menu li {
+    cursor: pointer;
+    padding: 8px 16px;
+    list-style-type: none;
+    color: #8895A0;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.inventory-more-menu li:hover {
+    background-color: #F9FAFB;
+}
+
+.inventory-more-menu li img {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.inventory-more-menu-btn {
+    all: unset;
+    cursor: pointer;
+}
+
+.inventory-more-menu-btn:focus {
+    outline: none;
+}
+
+.inventory-quantity-content {
+    padding: 4px 4px 4px 16px;
+    border-radius: 6px;
+    border: 1px solid #E3EBF4;
+    background: #F1F5F9;
+    flex: 1;
+}
+
+.rtl .inventory-quantity-content{
+    padding: 4px 16px 4px 4px;
+}
+
+.rtl .inventory-quantity-content p{
+    text-align: right;
+}
+
+.inventory-quantity-content p {
+    margin: auto;
+}
+
+.inventory-quantity-content:hover {
+    background-color: #E3EBF4;
+}
+
+.inventory-quantity-content:hover .quantity-add-product {
+    visibility: visible;
+    user-select: all;
+    opacity: 1;
+}
+
+@media (width <= 500px) {
+    .inventory-product-header-content {
+        flex-direction: column;
+    }
+}
+
+input[type="checkbox"] {
+    cursor: pointer;
+}
+
+/*!* Modal Styles *!*/
+.inventory-quantity-confirm-modal {
+    color: #292D32;
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    line-height: 24px;
+}
+
+.inventory-quantity-confirm-modal__header {
+    padding: 14px 16px;
+    background-color: #F7F8FB;
+    border-bottom: 1px solid #E3EBF4;
+}
+
+.inventory-quantity-confirm-modal p {
+    margin: 0;
+    padding: 0;
+    color: #292D32;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.inventory-quantity-confirm-modal svg {
+    cursor: pointer;
+}
+
+.inventory-quantity-body {
+    padding: 24px 16px;
+    gap: 8px;
+}
+
+.inventory-quantity-body label {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.inventory-quantity-body input {
+    border: 1px solid #E3EBF4;
+    padding: 14px 16px;
+}
+
+.inventory-quantity-body span {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.inventory-quantity-confirm-modal footer {
+    padding: 16px;
+    border-top: 1px solid #E2EAF3;
+    gap: 12px;
+    border-radius: 12px !important;
+}
+
+.inventory-quantity-confirm-modal footer button {
+    all: unset;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    cursor: pointer;
+    padding: 10px 32px;
+    border-radius: 8px;
+}
+
+.inventory-quantity-confirm-modal footer button:hover {
+    filter: brightness(90%);
+}
+
+.inventory-quantity-confirm-modal footer button.inventory-cancel-btn {
+    background-color: #F7F8FB;
+    border: 1px solid #E2EAF3;
+}
+
+.inventory-quantity-confirm-modal footer button.inventory-save-btn {
+    border: 1px solid #6C70DC;
+    background: #6C70DC;
+    color: #fff;
+}
+
+.inventory-data-table {
+    position: relative;
+}
+
+.bulk-action {
+    position: absolute;
+    top: 15px;
+    left: 0;
+    z-index: 99;
+    background-color: #F7F8FB;
+    border-radius: 4px;
+    padding: 12px;
+    width: 100%;
+    display: none;
+}
+
+.bulk-selector {
+    gap: 12px;
+}
+
+#bulkActionLabel {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 20px;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    background-color: #52D56B;
+}
+
+#bulkActionCheckbox {
+    display: none;
+}
+
+#bulkActionLabel::before {
+    content: '-';
+    font-size: 20px;
+    line-height: 20px;
+    color: #fff;
+}
+
+#bulkActionCheckbox:checked + #bulkActionLabel::before {
+    content: '✓';
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.select-all, #inventoryProductTable [data-dt-column="0"] .dt-column-title {
+    position: relative;
+    left: -3px;
+}
+
+.selected-items {
+    margin-right: auto;
+}
+
+.selected-items span {
+    color: #14151A;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.delete-products-btn {
+    all: unset;
+    cursor: pointer;
+    gap: 10px;
+    padding: 4px 12px;
+    border-radius: 6px;
+}
+
+.delete-products-btn:hover {
+    background-color: #FEE2E1;
+}
+
+.delete-products-btn:focus {
+    outline: none;
+}
+
+.inventory-trash-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.inventory-trash-icon img {
+    width: 100%;
+}
+
+.delete-products-btn span {
+    color: #8E1F0B;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.hide-element {
+    opacity: 0;
+    user-select: none;
+    visibility: hidden;
+    pointer-events: none;
+    z-index: -1;
+}
+
+.status-dropdown-btn:hover {
+    filter: brightness(100%) !important;
+}
+
+@media (width <= 500px) {
+    .inventory-product-header-wrapper {
+        flex-direction: column;
+        justify-content: center;
+    }
+}
